@@ -30,6 +30,7 @@ favorit: favorite
 favorties: favorites
 fullfil: fulfill
 fullfill: fulfill
+fullfills: fulfills
 grascale: grayscale
 graysacle: grayscale
 initailized: initialized

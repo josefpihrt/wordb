@@ -726,6 +726,8 @@ liberalizes
 liberalizing
 license
 licenses
+lightbulb
+lightbulbs
 linearization
 linearizations
 linearize
@@ -1274,6 +1276,10 @@ signaled
 signaler
 signalers
 signaling
+signalize
+signalized
+signalizes
+signalizing
 singularize
 singularized
 singularizes

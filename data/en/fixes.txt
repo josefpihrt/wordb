@@ -34,6 +34,7 @@ acccused: accused
 accellerated: accelerated
 accelleration: acceleration
 acceptible: acceptable
+acces: access
 accesed: accessed
 acceses: accesses
 accesing: accessing
@@ -454,6 +455,7 @@ atribute: attribute
 atributed: attributed
 atributes: attributes
 attachement: attachment
+attachs: attaches
 attemped: attempted
 attemps: attempts
 attemptinng: attempting
@@ -526,6 +528,7 @@ avialable: available
 aviod: avoid
 aweful: awful
 awfull: awful
+bacause: because
 backgound: background
 backgroud: background
 backslashs: backslashes
@@ -534,6 +537,7 @@ baloon: balloon
 baloons: balloons
 bandwith: bandwidth
 bankrupcy: bankruptcy
+bannana: banana
 basicaly: basically
 basicly: basically
 batchs: batch
@@ -587,6 +591,7 @@ bookeeping: bookkeeping
 Boolen: Boolean
 boooking: booking
 boostrapper: bootstrapper
+bootsraps: bootstraps
 boundries: boundaries
 boundry: boundary
 bouyant: buoyant
@@ -789,6 +794,8 @@ comittee: committee
 comitting: committing
 comleted: completed
 commaseparated: comma-separated
+commecial: commercial
+commecrial: commercial
 commerical: commercial
 comming: coming
 commision: commission
@@ -1011,6 +1018,8 @@ contraversy: controversy
 contributer: contributor
 contributers: contributors
 controled: controlled
+controler: controller
+controlers: controllers
 controling: controlling
 controll: control
 controlls: controls
@@ -1022,6 +1031,7 @@ contructor: contractor
 contructors: constructors
 contructors: contractors
 contsructors: constructors
+contstructor: constructor
 conveinence: convenience
 conventient: convenient
 conventios: convention
@@ -1071,11 +1081,13 @@ corrsponding: corresponding
 coruption: corruption
 cosisting: consisting
 cosntructor: constructor
+costy: costly
 cotents: contents
 cotinuous: continuous
 couldnt: couldn't
 covarient: covariant
 covergae: coverage
+craete: create
 creat: create
 createion: creation
 creater: creator
@@ -1092,6 +1104,7 @@ critria: criteria
 crosshair: crosshairs
 crtieria: criteria
 crtierion: criterion
+cryptographicaly: cryptographically
 culutres: cultures
 cummulative: cumulative
 curency: currency
@@ -1574,6 +1587,7 @@ explitic: explicit
 expresion: expression
 expresions: expressions
 expresson: expression
+expresssion: expression
 expresssions: expressions
 exptession: expression
 exstensions: extensions
@@ -1625,6 +1639,7 @@ florescent: fluorescent
 flourescent: fluorescent
 focussed: focused
 focusses: focuses
+follback: fallback
 followinig: following
 followup: follow-up
 follwed: followed
@@ -1660,6 +1675,7 @@ framewors: framework
 framewors: frameworks
 framwork: framework
 framworks: frameworks
+freezed: frozen
 freind: friend
 frequences: frequencies
 frist: first
@@ -1766,6 +1782,7 @@ harrasing: harassing
 harrasment: harassment
 harrasments: harassments
 harrass: harass
+hasbang: hashbang
 hasnt: hasn't
 havent: haven't
 hbernate: hibernate
@@ -1781,6 +1798,7 @@ heshing: hashing
 heterogenous: heterogeneous
 hexidecimal: hexadecimal
 hibenate: hibernate
+hidding: hiding
 hiearchy: hierarchy
 hierachical: hierarchical
 hierachies: hierarchies
@@ -1807,6 +1825,7 @@ horizonatal: horizontal
 horizonatally: horizontally
 horizontaly: horizontally
 horizontially: horizontally
+hte: the
 hunderds: hundreds
 hygeine: hygiene
 hypelink: hyperlink
@@ -1830,6 +1849,7 @@ idiosyncracy: idiosyncrasy
 ifinity: infinity
 ignorence: ignorance
 ignroable: ignorable
+ihnerit: inherit
 ilegal: illegal
 imags: image
 imags: images
@@ -1876,6 +1896,7 @@ implimented: implemented
 implmentation: implementation
 imporovements: improvements
 importand: important
+impossibe: impossible
 impratical: impractical
 impressario: impresario
 impromput: impromptu
@@ -1959,6 +1980,7 @@ infomation: information
 infomration: information
 informaiton: information
 infrastracture: infrastructure
+infromation: information
 ingored: ignored
 ingoring: ignoring
 ingrediens: ingredient
@@ -2070,6 +2092,8 @@ iterface: interface
 itertion: iteration
 itrinsics: intrinsics
 itterate: iterate
+javascipt: javascript
+javscript: javascript
 justifaction: justification
 klass: class
 knonw: known
@@ -2098,6 +2122,7 @@ libarary: library
 lifecyle: lifecycle
 lightyear: light year
 lightyears: light years
+ligitimate: legitimate
 likeley: likely
 likelyhood: likelihood
 limiation: limitation
@@ -2454,6 +2479,7 @@ parente: parented
 parente: parents
 parentesis: parenthesis
 parenthethis: parenthesis
+parenthised: parenthesized
 paritioning: partitioning
 parliment: parliament
 parmeter: parameter
@@ -2533,6 +2559,7 @@ polymoirphic: polymorphic
 polymorpic: polymorphic
 polynominal: polynomial
 polyomnial: polynomial
+populare: popular
 Portugese: Portuguese
 posess: possess
 posessed: possessed
@@ -2832,6 +2859,7 @@ reseted: reset
 reseting: resetting
 resetted: reset
 resetted: resetter
+resilliency: resilience
 resillient: resilient
 resistence: resistance
 resistent: resistant
@@ -2966,6 +2994,7 @@ sheeps: sheep
 sherif: sheriff
 shieds: sheds
 shieds: shields
+shiping: shipping
 shooping: shopping
 shortcircuit: short-circuit
 shoudl: should
@@ -3403,6 +3432,8 @@ versionned: versioned
 versionning: versioning
 veryfy: verify
 viceversa: vice versa
+viemwodel: viewmodel
+viemwodels: viewmodels
 vigourous: vigorous
 villification: vilification
 villify: vilify
@@ -3414,6 +3445,7 @@ visiblity: visibility
 vitrually: virtually
 wanring: warning
 wasnt: wasn't
+watermeloon: watermelon
 wegihts: weights
 wellformed: well-formed
 wellknown: well known

@@ -121,6 +121,7 @@ Doppler
 Douglas
 DuPont
 Duracell
+Edison
 Edwards
 Egyptienne
 Eiffel
@@ -183,6 +184,7 @@ Goethe
 Google
 Googlebot
 Grafton
+Grammarly
 Gravatar
 Gravura
 Grisham
@@ -280,6 +282,7 @@ Leibniz
 Lenin
 Lenovo
 Lermontov
+Lexico
 Lincoln
 LinkedIn
 Linksys

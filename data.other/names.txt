@@ -8,8 +8,10 @@ Alejandra
 Alejandro
 Alexey
 Alfonso
+Alonso
 Aneta
 Antonio
+Aslan
 Bruno
 Carlo
 Carmen
@@ -127,6 +129,7 @@ Pavla
 Pedro
 Pekka
 Petr
+Petra
 Philippe
 Pierre
 Pietro

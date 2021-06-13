@@ -11,6 +11,8 @@ aop
 api
 apis
 argb
+aspx
+ast
 aux
 aws
 awssdk
@@ -142,6 +144,8 @@ j2se
 jdbc
 jdk
 jni
+jpeg
+jpg
 jsp
 jwk
 jwks
@@ -221,6 +225,7 @@ pid
 pkce
 pkcs
 pki
+png
 pnp
 pnrp
 pop3
@@ -242,6 +247,7 @@ rhs
 risc
 rom
 rpc
+rrggbb
 rsa
 rsassa
 rss
@@ -285,6 +291,7 @@ sso
 sspi
 ssrs
 sstp
+svg
 svga
 tcp
 tcpip
@@ -297,6 +304,7 @@ tld
 tls
 tmpfs
 tpm
+tsc
 tsql
 ttl
 uac
@@ -343,6 +351,7 @@ wss
 wwan
 www
 xdmcp
+xhr
 xmlns
 xmpp
 xna

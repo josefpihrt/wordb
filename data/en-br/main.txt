@@ -1264,6 +1264,10 @@ sexualise
 sexualised
 sexualises
 sexualising
+signalise
+signalised
+signalises
+signalising
 signalled
 signaller
 signallers

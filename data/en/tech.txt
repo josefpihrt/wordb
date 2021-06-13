@@ -380,6 +380,7 @@ enums
 equatables
 eval
 evals
+exe
 expando
 exploitabilities
 exploitability
@@ -509,6 +510,7 @@ jit
 jits
 jitted
 jitting
+jumbotron
 keepalive
 keepalives
 keyframe
@@ -1036,6 +1038,7 @@ transpiles
 transpiling
 trie
 tries
+truthy
 tuple
 tupleize
 tupleized
@@ -1139,6 +1142,8 @@ vectorized
 vectorizes
 vectorizing
 versionability
+viewmodel
+viewmodels
 voxel
 voxels
 webhook
