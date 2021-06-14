@@ -7,9 +7,12 @@ Adidas
 Adyen
 Aeroflot
 Aharoni
+Airbnb
 Airbus
 Aldhabi
+Algolia
 Alighieri
+Alipay
 Allen
 Amadeus
 Amaretto
@@ -48,6 +51,7 @@ Becquerel
 Beethoven
 Beretta
 Bernoulli
+Betamax
 Bézier
 Bismarck
 Bodoni
@@ -89,6 +93,7 @@ Citigroup
 Citröen
 Clarendon
 Clark
+Cloudflare
 Cohen
 Cointreau
 Collins
@@ -107,8 +112,10 @@ Danone
 Darwin
 Debian
 Debussy
+Deezer
 Denon
 Descartes
+DHL
 Dickens
 Diderot
 Didot
@@ -119,8 +126,10 @@ Dolby
 Donatello
 Doppler
 Douglas
+Dropbox
 DuPont
 Duracell
+eBay
 Edison
 Edwards
 Egyptienne
@@ -134,6 +143,7 @@ Ethereum
 Euler
 Eurocard
 Eventbrite
+Evernote
 Excalibur
 Expedia
 Exxon
@@ -149,11 +159,13 @@ Feynman
 Fibonacci
 Firefox
 Flatiron
+Flipboard
 Forbes
 Forster
 Fourier
 Frankenstein
 Franklin
+FreeBSD
 Freud
 Friedman
 Frobenius
@@ -181,6 +193,7 @@ Gödel
 Godzilla
 Goebbels
 Goethe
+Goodreads
 Google
 Googlebot
 Grafton
@@ -237,13 +250,17 @@ iOS
 Irving
 Isracard
 Itanium
+iTunes
 Ivanhoe
 Jackson
 Jacuzzi
 Jameson
+JCB
 Jekyll
+Jenkins
 Johnson
 Jones
+Joomla
 Joplin
 Kafka
 Kamasutra
@@ -256,6 +273,7 @@ Kerberos
 Kerouac
 Kerry
 Keynes
+Kickstarter
 Kierkegaard
 Kipling
 Kirby
@@ -338,6 +356,7 @@ Murphy
 Murray
 Nabokov
 Napoleon
+Napster
 NASCAR
 NASDAQ
 Nefertiti
@@ -353,6 +372,7 @@ Northwind
 Novartis
 NVIDIA
 Oakley
+Odnoklassniki
 Odysseus
 Officevibe
 Ogilvy
@@ -384,6 +404,8 @@ Peugeot
 Pfizer
 Picasso
 Pinocchio
+Pinterest
+PlayStation
 Pocahontas
 Poisson
 Polanski
@@ -392,6 +414,7 @@ Pollock
 Pompidou
 Pontiac
 Porsche
+PowerPoint
 Puccini
 Pygmalion
 Qantas
@@ -400,6 +423,7 @@ Quasimodo
 Rachmaninoff
 Rakuten
 Reagan
+Reddit
 Reebok
 Rembrandt
 Remington
@@ -435,10 +459,12 @@ Schopenhauer
 Schrodinger
 Schrödinger
 Schumpeter
+Scribd
 Segoe UI
 Semtex
 Shakespeare
 SharePoint
+Shopify
 Siemens
 Sienkiewicz
 Simpson
@@ -447,16 +473,21 @@ Sirius
 SkyDrive
 Skype
 Smirnoff
+Snapchat
 Solaris
 Solingen
 Solomon
+SoundCloud
+Spock
 Spotify
 Springer
 Sputnik
+Squarespace
 Starbucks
 Starcraft
 Stewart
 Stradivari
+Strava
 Subaru
 Sutherland
 Suzuki
@@ -472,6 +503,7 @@ Thatcher
 Theano Didot
 Thompson
 Thomson
+TikTok
 Tiresias
 Tizen
 Tocqueville
@@ -480,11 +512,13 @@ Torricelli
 Toshiba
 Toyota
 Trebuchet MS
+Trello
 Trivago
 Tupperware
 Twilio
 Twitter
 Twofish
+Uber
 Ubuntu
 UNESCO
 UNICEF
@@ -492,6 +526,7 @@ Unicode
 Unilever
 UnionPay
 Unix
+UPS
 USPS
 Ustinov
 Valvoline
@@ -499,6 +534,7 @@ Verdana
 Verifone
 Verisign
 Viagra
+Viber
 Vimeo
 Visconti
 Visio
@@ -512,6 +548,7 @@ Walmart
 Watson
 Webdings
 WebHotelier
+Weibo
 Weierstrass
 WhatsApp
 Wiesenthal

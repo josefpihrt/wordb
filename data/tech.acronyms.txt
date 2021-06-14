@@ -167,6 +167,7 @@ lzma
 mac
 mapi
 mbps
+mdn
 mef
 mfc
 mgcp
@@ -219,6 +220,7 @@ pcl
 pcm
 pcmcia
 pcre
+pdb
 pdf
 pgp
 pid

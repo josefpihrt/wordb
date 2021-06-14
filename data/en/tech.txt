@@ -670,6 +670,8 @@ outdents
 overloadable
 overwritable
 paddings
+pageview
+pageviews
 paginator
 paginators
 param
@@ -897,6 +899,8 @@ shebangs
 shim
 shims
 signedness
+sitemap
+sitemaps
 slashified
 slashifies
 slashify

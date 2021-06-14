@@ -8,8 +8,10 @@ bcg
 bic
 bnb
 bps
+btc
 btw
 cc
+cctv
 cd-r
 cd-rom
 cd-rw
@@ -17,6 +19,7 @@ ceo
 cjk
 cjkv
 crm
+csv
 cto
 cvv
 db
@@ -37,6 +40,7 @@ faq
 fps
 fyi
 gdpr
+gmbh
 gmt
 gprs
 gps
@@ -82,6 +86,7 @@ rpm
 rsvp
 sas
 secam
+sim
 sku
 sla
 sms
@@ -94,11 +99,13 @@ tbd
 toc
 tsa
 ucla
+ufo
 uhf
 usa
 usd
 usps
 utc
+vhs
 vip
 wifi
 wtf

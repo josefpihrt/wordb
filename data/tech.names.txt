@@ -85,6 +85,7 @@ JBoss
 JetBrains
 Jira
 jQuery
+JSFiddle
 JSON
 KDiff
 Kibana
@@ -97,6 +98,7 @@ Lisp
 Lua
 Lucene
 macOS
+Magento
 MariaDB
 Markdig
 MATLAB
@@ -138,6 +140,7 @@ Pascal
 PeachPie
 PerfView
 Perl
+Phabricator
 PHP
 PKWare
 Postgres
@@ -171,6 +174,7 @@ SignalR
 Silverlight
 Smalltalk
 SourceForge
+Sourcetree
 Splunk
 SQL
 SQLite
@@ -192,6 +196,7 @@ VHDL
 Vim
 VMWare
 Vorbis
+Vue
 W3C
 Wasm
 WebAssembly

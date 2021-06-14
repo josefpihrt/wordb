@@ -1292,6 +1292,10 @@ slingshot
 slingshots
 slowpoke
 slowpokes
+snowplow
+snowplowed
+snowplowing
+snowplows
 socialization
 socialize
 socialized

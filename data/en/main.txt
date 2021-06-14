@@ -1749,6 +1749,8 @@ aniseed
 anisette
 anisotropic
 anisotropically
+ankh
+ankhs
 ankle
 ankles
 anklet
@@ -19831,6 +19833,8 @@ gambrel
 game
 gamecocks
 gamely
+gamepad
+gamepads
 gamer
 gamers
 games
@@ -21826,6 +21830,8 @@ hashers
 hashes
 hashing
 hashish
+hashtag
+hashtags
 hasn't
 hassle
 hassled
@@ -22967,6 +22973,8 @@ howsoever
 hp
 hr
 hrs
+hryvnia
+hryvnias
 ht
 hub
 hubbies
@@ -25780,6 +25788,8 @@ jealousies
 jealously
 jealousy
 jeans
+jedi
+jedis
 jeep
 jeepers
 jeeps
@@ -30699,6 +30709,8 @@ narrowing
 narrowly
 narrowness
 narrows
+narwhal
+narwhals
 nary
 nasal
 nasally
@@ -37156,6 +37168,7 @@ quicksands
 quicksilver
 quid
 quid pro quo
+quidditch
 quiescence
 quiescent
 quiescently
@@ -37230,6 +37243,7 @@ quotidian
 quotient
 quotients
 quoting
+Quran
 rabbi
 rabbinic
 rabbinical
@@ -46573,6 +46587,10 @@ tabulation
 tabulations
 tabulator
 tabulators
+tachograph
+tachographs
+tachometer
+tachometers
 tacit
 tacitly
 taciturn
@@ -48103,6 +48121,8 @@ touching
 touchingly
 touchpad
 touchpads
+touchscreen
+touchscreens
 touchstone
 touchy
 tough
@@ -48340,6 +48360,7 @@ transfuse
 transfused
 transfusion
 transfusions
+transgender
 transgenic
 transgress
 transgressed
