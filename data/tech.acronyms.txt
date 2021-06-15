@@ -83,6 +83,7 @@ ecdsa
 ecma
 eddsa
 eeprom
+egpcs
 elt
 eof
 eol
@@ -94,6 +95,7 @@ fddi
 fips
 fqdn
 fqn
+fsc
 ftp
 ftps
 gac

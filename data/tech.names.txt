@@ -142,6 +142,7 @@ PerfView
 Perl
 Phabricator
 PHP
+PhpStorm
 PKWare
 Postgres
 PostgreSQL

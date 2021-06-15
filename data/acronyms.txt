@@ -76,10 +76,12 @@ ntsc
 nyse
 oled
 omg
+osx
 plc
 poi
 pos
 pov
+pow
 ppc
 ppv
 rpm

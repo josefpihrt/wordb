@@ -367,6 +367,7 @@ Nimitz
 Nintendo
 Nissan
 Nobel
+Nokia
 Nordstern
 Northwind
 Novartis
@@ -485,6 +486,7 @@ Sputnik
 Squarespace
 Starbucks
 Starcraft
+Steinbeck
 Stewart
 Stradivari
 Strava

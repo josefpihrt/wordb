@@ -121,7 +121,6 @@ additionaly: additionally
 additionnal: additional
 additonal: additional
 additonally: additionally
-addres: adders
 addres: address
 addresable: addressable
 addresed: addressed
@@ -413,6 +412,7 @@ assigmnent: assignment
 assignement: assignment
 assignemnt: assignment
 assignemnts: assignments
+assignes: assigns
 assing: assign
 assingable: assignable
 assistent: assistant
@@ -455,7 +455,6 @@ atribute: attribute
 atributed: attributed
 atributes: attributes
 attachement: attachment
-attachs: attaches
 attemped: attempted
 attemps: attempts
 attemptinng: attempting
@@ -619,6 +618,7 @@ caclulated: calculated
 caclulates: calculates
 caculation: calculation
 cahce: cache
+calback: callback
 calcaulting: calculating
 calcualtes: calculates
 calcuating: calculating
@@ -1027,9 +1027,7 @@ controversal: controversial
 contruction: construction
 contruction: contraction
 contructor: constructor
-contructor: contractor
 contructors: constructors
-contructors: contractors
 contsructors: constructors
 contstructor: constructor
 conveinence: convenience
@@ -1428,6 +1426,7 @@ emplyees: employees
 empolyee: employee
 emptys: empties
 emtpy: empty
+emtry: entry
 enapsulated: encapsulated
 encapselates: encapsulates
 encdoing: encoding
@@ -1510,6 +1509,7 @@ evalutation: evaluation
 evalution: evaluation
 evalution: evolution
 eventhough: even though
+eventualy: eventually
 everwhere: everywhere
 everyhing: everything
 everytime: every time
@@ -2645,6 +2645,7 @@ proccesing: processing
 proccesor: processor
 proccesors: processors
 proccess: process
+proccessed: processed
 proccesses: processes
 proccessing: processing
 proceess: proceeds
@@ -2686,7 +2687,6 @@ propertied: properties
 propertly: properly
 propertly: property
 propertys: properties
-propery: proper
 propery: property
 propesties: properties
 propeties: properties
@@ -2770,7 +2770,6 @@ refered: referred
 refereneced: referenced
 referense: reference
 referernce: reference
-referes: referee
 referes: refers
 refering: referring
 refernce: reference

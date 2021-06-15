@@ -62,7 +62,9 @@ autogeneration
 autoincrement
 autolinked
 autoload
+autoloaded
 autoloading
+autoloads
 automapped
 automapping
 automappings
@@ -236,8 +238,6 @@ cookieless
 coprocessor
 coprocessors
 copyability
-ctor
-ctors
 ctrl
 cyclomatic
 daemonization
@@ -445,6 +445,8 @@ hashbang
 hashbangs
 hashcode
 hashcodes
+hashtable
+hashtables
 headerless
 heapified
 heapifies
@@ -988,6 +990,8 @@ suggesters
 superclass
 superclasses
 superfetch
+superglobal
+superglobals
 superproject
 superprojects
 supertype

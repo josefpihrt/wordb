@@ -1,14 +1,19 @@
-﻿agg
+﻿addr
+agg
 arg
 args
 arr
 asc
 attr
 attrs
+cctor
 cfg
 cmd
 cmp
 cnt
+ctor
+ctors
+ctx
 curr
 dbg
 decl
@@ -21,6 +26,7 @@ dest
 dev
 diag
 dic
+dict
 dir
 dirs
 dst
@@ -28,11 +34,13 @@ enc
 env
 err
 esc
+exp
 expr
 exprs
 fav
+fld
 flg
-hex
+hexa
 idx
 idxs
 img
@@ -41,6 +49,7 @@ kvp
 kvps
 lang
 len
+mod
 msg
 num
 obj
@@ -50,6 +59,7 @@ pos
 prev
 proc
 procs
+proj
 ptr
 ptrs
 pwd
@@ -63,3 +73,4 @@ sys
 tmp
 val
 var
+vars

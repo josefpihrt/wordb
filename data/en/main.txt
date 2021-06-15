@@ -2234,6 +2234,7 @@ aqueous
 aquifer
 aquifers
 Arab
+Arabian
 Arabic
 arable
 Arabs

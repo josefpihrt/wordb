@@ -1,7 +1,10 @@
 ﻿adodb
 adonet
+argc
 arglist
+argv
 aspnet
+aspnetcore
 beforefieldinit
 bigint
 blogspot
@@ -52,6 +55,7 @@ lpstr
 lpsz
 lptstr
 lpwstr
+lvalue
 memcpy
 memmove
 mkdir
@@ -80,6 +84,7 @@ raquo
 rdquo
 regedit
 resx
+rvalue
 semver
 shlobj
 shlwapi
@@ -94,6 +99,7 @@ stdout
 strcmp
 strcpy
 substr
+sudo
 svchost
 svcutil
 sysconfig

@@ -67,7 +67,9 @@ psmdcp
 pubxml
 rar
 resx
+sdf
 sfproj
+shproj
 sln
 slnproj
 snk
@@ -82,6 +84,7 @@ txt
 vb
 vbhthml
 vbproj
+vbx
 vcxproj
 vob
 vsct
