@@ -19,6 +19,7 @@ Amaretto
 AMD
 Amtrak
 Amundsen
+Antonov
 Aparajita
 Apollo
 Arial
@@ -66,6 +67,7 @@ Burton
 Cadillac
 Calibri
 Calisto MT
+Caltech
 Calvados
 Cambria
 Campbell
@@ -207,6 +209,7 @@ Gulliver
 Gungsuh
 Haettenschweiler
 Hannibal
+Hanselman
 Harvard
 Hawking
 Hawthorne
@@ -233,6 +236,7 @@ Houdini
 HSBC
 Huawei
 Hubble
+Huffman
 Hulu
 Hummer
 Hurley
@@ -281,6 +285,7 @@ Kirchhoff
 Klavika
 Klingon
 Knesset
+Knuth
 Kodachrome
 Kodak
 Kokoschka
@@ -297,6 +302,7 @@ Learjet
 Lebesgue
 Leelawadee
 Leibniz
+Lempel
 Lenin
 Lenovo
 Lermontov
@@ -331,6 +337,7 @@ Maupassant
 Maxwell
 Mazda
 Meiryo
+Mersenne
 Metallica
 Metternich
 Michelangelo
@@ -403,6 +410,7 @@ Perrier
 Petersen
 Peugeot
 Pfizer
+Photoshop
 Picasso
 Pinocchio
 Pinterest
@@ -461,7 +469,7 @@ Schrodinger
 Schrödinger
 Schumpeter
 Scribd
-Segoe UI
+Segoe
 Semtex
 Shakespeare
 SharePoint

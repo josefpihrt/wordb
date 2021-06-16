@@ -1,5 +1,7 @@
 ﻿accessor
 accessors
+acos
+acosh
 activatable
 adaptee
 adaptees
@@ -29,7 +31,11 @@ archivers
 argumentless
 arities
 arity
+asin
+asinh
 async
+atan
+atanh
 autocommit
 autocommits
 autocommitting
@@ -60,9 +66,13 @@ autogenerates
 autogenerating
 autogeneration
 autoincrement
+autoincremented
 autolinked
 autoload
+autoloadable
 autoloaded
+autoloader
+autoloaders
 autoloading
 autoloads
 automapped
@@ -123,6 +133,8 @@ barewords
 baselining
 batchable
 batchwise
+beautifier
+beautifiers
 binarization
 binarizations
 bitfield
@@ -173,6 +185,8 @@ callable
 callables
 callee
 callees
+callsite
+callsites
 camelize
 cancellability
 canonicalize
@@ -238,6 +252,8 @@ cookieless
 coprocessor
 coprocessors
 copyability
+cos
+cosh
 ctrl
 cyclomatic
 daemonization
@@ -393,6 +409,7 @@ fakeable
 fallthrough
 fallthru
 falsiness
+falsy
 favicon
 favicons
 fetchable
@@ -701,6 +718,7 @@ pluggability
 poco
 pocos
 polyfill
+polyfills
 poolable
 popup
 popups
@@ -708,6 +726,7 @@ postback
 postbacks
 postcondition
 postconditions
+postprocessing
 pragma
 pragmas
 preallocate
@@ -901,6 +920,7 @@ shebangs
 shim
 shims
 signedness
+sinh
 sitemap
 sitemaps
 slashified
@@ -1006,6 +1026,7 @@ symlinks
 tabify
 tablespace
 tablespaces
+tanh
 telnet
 templating
 thresholding
@@ -1034,6 +1055,7 @@ transcoder
 transcoders
 transcodes
 transcoding
+translit
 transliterator
 transliterators
 transpilation

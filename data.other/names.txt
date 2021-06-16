@@ -15,6 +15,7 @@ Aslan
 Bruno
 Carlo
 Carmen
+Clément
 Constantinos
 Cristiano
 Cristina
@@ -59,6 +60,7 @@ Helena
 Helmut
 Hendrik
 Horst
+Igor
 Isabelle
 Ivan
 Ivana
@@ -114,10 +116,12 @@ Maximilian
 Michaela
 Michal
 Milan
+Moshe
 Natalia
 Natasha
 Nguyen
 Nikita
+Niklas
 Oleg
 Oleksandr
 Oskar

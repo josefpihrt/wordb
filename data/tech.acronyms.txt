@@ -68,6 +68,7 @@ dpi
 dram
 drm
 dsl
+dsn
 dsssl
 dtd
 dto
@@ -83,14 +84,17 @@ ecdsa
 ecma
 eddsa
 eeprom
+egp
 egpcs
 elt
 eof
 eol
 eols
 eot
+esmtp
 etl
 eula
+exslt
 fddi
 fips
 fqdn
@@ -100,6 +104,7 @@ ftp
 ftps
 gac
 gc
+gcm
 gdi
 gfdl
 gpg
@@ -154,10 +159,12 @@ jwks
 jwt
 khtml
 lan
+lcg
 lcid
 ldap
 lf
 lgpl
+lhs
 linq
 lkml
 lmdb
@@ -182,6 +189,7 @@ msde
 msdn
 msdos
 msdtc
+msie
 msil
 msmq
 mssql
@@ -241,6 +249,7 @@ qldb
 qvbr
 ram
 rdbms
+rdp
 repl
 rfc
 rfid
@@ -273,6 +282,7 @@ seo
 sftp
 sfx
 sgml
+sha
 sid
 sloc
 smime
@@ -281,6 +291,7 @@ smtps
 snmp
 sntp
 spdx
+spki
 sram
 srid
 ssas
@@ -354,6 +365,7 @@ wsgi
 wss
 wwan
 www
+xdg
 xdmcp
 xhr
 xmlns

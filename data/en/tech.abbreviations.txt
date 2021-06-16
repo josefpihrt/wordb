@@ -1,16 +1,22 @@
 ﻿addr
 agg
+algo
 arg
 args
 arr
 asc
+asm
 attr
 attrs
+buf
 cctor
+cctors
+cert
 cfg
 cmd
 cmp
 cnt
+col
 ctor
 ctors
 ctx
@@ -21,6 +27,8 @@ decls
 def
 defs
 del
+dep
+deps
 desc
 dest
 dev
@@ -40,6 +48,7 @@ exprs
 fav
 fld
 flg
+gen
 hexa
 idx
 idxs
@@ -48,6 +57,7 @@ impl
 kvp
 kvps
 lang
+lbl
 len
 mod
 msg
@@ -65,7 +75,9 @@ ptrs
 pwd
 rect
 rects
+ret
 rnd
+sqrt
 src
 str
 svc
@@ -74,3 +86,4 @@ tmp
 val
 var
 vars
+wrn

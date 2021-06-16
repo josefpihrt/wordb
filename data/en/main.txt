@@ -32,6 +32,7 @@ abbreviation
 abbreviations
 abbreviator
 abbreviators
+abbrs
 abdicate
 abdicated
 abdicates
@@ -899,6 +900,7 @@ affiliating
 affiliation
 affiliations
 affine
+affined
 affinities
 affinity
 affirm
@@ -10181,11 +10183,9 @@ convey
 conveyance
 conveyances
 conveyed
-conveyer belt
-conveyer belts
+conveyer
 conveying
-conveyor belt
-conveyor belts
+conveyor
 conveys
 convict
 convicted
@@ -11971,6 +11971,8 @@ declaring
 declassified
 declassifies
 declassify
+declination
+declinations
 decline
 declined
 declines
@@ -15280,6 +15282,7 @@ editorials
 editors
 editorship
 edits
+edu
 educate
 educated
 educates
@@ -20643,6 +20646,7 @@ gone
 goner
 gong
 gongs
+goniometric
 gonna
 gonorrhea
 gonzo

@@ -101,6 +101,7 @@ Billy
 Bobbi
 Bobby
 Bonnie
+Boris
 Brad
 Bradley
 Brandon
@@ -173,6 +174,7 @@ Clarissa
 Claude
 Claudia
 Clay
+Clement
 Clementine
 Cleopatra
 Cliff
@@ -226,6 +228,7 @@ Delilah
 Denise
 Dennis
 Derek
+Derick
 Derrick
 Desdemona
 Desmond
@@ -237,6 +240,7 @@ Diogenes
 Dionysus
 Dirk
 Django
+Domenic
 Donald
 Donna
 Donnie
@@ -326,6 +330,7 @@ Giselle
 Glen
 Glenn
 Gloria
+Gollum
 Gorbachev
 Grace
 Graeme
@@ -340,6 +345,7 @@ Gwyneth
 Hank
 Hannah
 Hannibal
+Hans
 Harley
 Harold
 Harper

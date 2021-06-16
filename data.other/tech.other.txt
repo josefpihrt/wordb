@@ -1,7 +1,6 @@
 ﻿adodb
 adonet
 argc
-arglist
 argv
 aspnet
 aspnetcore
@@ -10,7 +9,6 @@ bigint
 blogspot
 byref
 byval
-callvirt
 codegen
 cordbg
 coreclr
@@ -28,6 +26,7 @@ dnx
 dnxcore
 doctype
 dotnet
+dotnetcore
 elif
 endif
 endregion
@@ -40,14 +39,18 @@ href
 hwnd
 iisexpress
 ildasm
+inetpub
 inheritdoc
 ipconfig
+ipsum
 jarray
+jobject
 jtoken
 laquo
 ldquo
 libcurl
 libuv
+lorem
 lparam
 lpcstr
 lpctstr
@@ -56,6 +59,7 @@ lpsz
 lptstr
 lpwstr
 lvalue
+mailto
 memcpy
 memmove
 mkdir
@@ -81,9 +85,11 @@ paramref
 printf
 quot
 raquo
+rcpt
 rdquo
 regedit
 resx
+rmdir
 rvalue
 semver
 shlobj
@@ -136,6 +142,7 @@ wwwroot
 xmldoc
 xobject
 xpath
+xpaths
 xplat
 xvalue
 yvalue

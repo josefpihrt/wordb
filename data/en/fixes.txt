@@ -61,6 +61,7 @@ accomodation: accommodation
 accomodations: accommodations
 accompanyed: accompanied
 accordeon: accordion
+accordign: according
 accordinly: accordingly
 accoustic: acoustic
 accros: across
@@ -84,6 +85,8 @@ acheives: achieves
 acheiving: achieving
 achievment: achievement
 achievments: achievements
+achive: achieve
+achive: archive
 achived: achieved
 achived: archived
 achivement: achievement
@@ -119,6 +122,7 @@ addding: adding
 addds: adds
 additionaly: additionally
 additionnal: additional
+additon: addition
 additonal: additional
 additonally: additionally
 addres: address
@@ -137,6 +141,7 @@ aditionally: additionally
 adjecent: adjacent
 adjustement: adjustment
 adjustements: adjustments
+adminssible: admissible
 adminstration: administration
 admissability: admissibility
 admissable: admissible
@@ -236,6 +241,7 @@ alowing: allowing
 alows: allows
 alpabetic: alphabetic
 alpabetical: alphabetical
+alphanumberic: alphanumeric
 alread: already
 alterative: alternative
 alternativ: alternative
@@ -253,6 +259,7 @@ ammendments: amendments
 ammends: amends
 ammount: amount
 amoung: among
+amout: amount
 amperstand: ampersand
 amunition: ammunition
 analagous: analogous
@@ -282,6 +289,7 @@ annuled: annulled
 annuling: annulling
 anonimous: anonymous
 anonynous: anonymous
+anotation: annotation
 anounced: announced
 anouncement: announcement
 anscestor: ancestor
@@ -294,6 +302,7 @@ anulled: annulled
 anwser: answer
 anyting: anything
 aparrent: apparent
+apears: appears
 apend: append
 aplicable: applicable
 aplication: application
@@ -315,6 +324,7 @@ appoximate: approximate
 appoximately: approximately
 apppear: appear
 apppears: appears
+apppends: appends
 appplication: application
 appplications: applications
 appplied: applied
@@ -429,12 +439,14 @@ assymetric: asymmetric
 assymetrical: asymmetrical
 asterices: asterisks
 astericks: asterisks
+asteriks: asterisk
 asteriod: asteroid
 asteriods: asteroids
 asthetic: aesthetic
 asthetical: aesthetical
 asthetically: aesthetically
 asthetics: aesthetics
+asume: assume
 asumption: assumption
 asychronous: asynchronous
 asycronous: asynchronous
@@ -468,6 +480,7 @@ attirbutes: attributes
 attrbute: attribute
 attrbutes: attributes
 attribtue: attribute
+attribtues: attributes
 attribue: attribute
 attribut: attribute
 attributues: attributes
@@ -493,6 +506,8 @@ authnticated: authenticated
 authobiographic: autobiographic
 authobiography: autobiography
 authorites: authorities
+autload: autoload
+autloaded: autoloaded
 autochtonous: autochthonous
 automatical: automatic
 automaticall: automatically
@@ -519,6 +534,7 @@ availiable: available
 availibility: availability
 availlable: available
 avalability: availability
+avalable: available
 avaliable: available
 avarage: average
 avarege: average
@@ -571,6 +587,7 @@ bergamont: bergamot
 betweeen: between
 betwen: between
 betwenn: between
+beutifier: beautifier
 beyound: beyond
 bidiretional: bidirectional
 bidning: binding
@@ -602,6 +619,7 @@ brillant: brilliant
 brushs: brush
 brushs: brushes
 buble: bubble
+buider: builder
 buidler: builder
 buildeer: builder
 buisness: business
@@ -628,6 +646,7 @@ calender: calendar
 calenders: calendars
 caligraphy: calligraphy
 callbakc: callback
+calles: callees
 caluclate: calculate
 calulates: calculates
 calulation: calculation
@@ -643,6 +662,7 @@ cannisters: canisters
 cannnot: cannot
 cannonical: canonical
 cannonicalization: canonicalization
+canot: cannot
 capabilites: capabilities
 capabilitie: capabilities
 capablities: capabilities
@@ -673,6 +693,8 @@ catepillar: caterpillar
 catepillars: caterpillars
 caterpilar: caterpillar
 caterpilars: caterpillars
+cathegories: categories
+cathegory: category
 catterpilar: caterpillar
 catterpilars: caterpillars
 catterpillar: caterpillar
@@ -723,6 +745,7 @@ chracters: characters
 churchs: churches
 Cincinatti: Cincinnati
 Cincinnatti: Cincinnati
+cirtuit: circuit
 ciruited: circuited
 clasess: classes
 clasic: classic
@@ -733,10 +756,12 @@ classifed: classified
 classs: class
 classs: classes
 classses: classes
+classsify: classify
 clinicaly: clinically
 clustser: cluster
 cmopression: compression
 coallescence: coalescence
+codition: condition
 coefficent: coefficient
 coefficents: coefficients
 coeficient: coefficient
@@ -767,6 +792,8 @@ collonade: colonnade
 collonies: colonies
 collosal: colossal
 collpasible: collapsible
+collumn: column
+collumns: columns
 columm: column
 columnn: column
 columnss: columns
@@ -816,6 +843,7 @@ committments: commitments
 committs: commits
 commma: comma
 commmand: command
+commmon: common
 communcation: communication
 comoponents: components
 comoponet: component
@@ -827,6 +855,7 @@ compareable: comparable
 comparerer: comparer
 comparision: comparison
 comparisions: comparisons
+comparition: comparison
 comparsion: comparison
 comparsions: comparisons
 compatability: compatibility
@@ -924,6 +953,8 @@ connectin: connection
 connetion: connection
 conotation: connotation
 conotations: connotations
+conponent: component
+conponents: components
 conposite: composite
 conquerer: conqueror
 conquerers: conquerors
@@ -954,6 +985,7 @@ constains: contains
 constaint: constant
 constaint: constraint
 constansts: constants
+constats: constants
 constisting: consisting
 constractor: constructor
 constractor: contractor
@@ -989,6 +1021,7 @@ consumated: consummated
 consumeing: consuming
 consumtion: consumption
 consuption: consumption
+containig: containing
 containin: containing
 containng: containing
 containter: container
@@ -1000,6 +1033,7 @@ contants: contents
 contemporaneus: contemporaneous
 contenxt: content
 contenxt: context
+contex: context
 contextes: contexts
 contibute: contribute
 contibuted: contributed
@@ -1071,6 +1105,7 @@ correcty: correctly
 correcty: corrects
 correpsonding: corresponding
 correspoding: corresponding
+correspodning: corresponding
 correspondant: correspondent
 correspondig: corresponding
 corressponding: corresponding
@@ -1116,6 +1151,7 @@ curreny: currency
 curreny: current
 custm: custom
 dacquiri: daiquiri
+dafault: default
 Dannish: Danish
 daquiri: daiquiri
 databse: database
@@ -1132,6 +1168,7 @@ decieve: deceive
 decieved: deceived
 decima: decimal
 decinal: decimal
+declaing: declaring
 declarad: declared
 declaratoins: declarations
 declaraton: declaration
@@ -1187,6 +1224,7 @@ deifned: defined
 deilimiter: delimiter
 delagate: delegate
 delcarations: declarations
+delcared: declared
 deletation: deletion
 deleteing: deleting
 deleteon: deletion
@@ -1217,7 +1255,9 @@ depenencies: dependencies
 depenency: dependency
 deployement: deployment
 deploymnet: deployment
+deplyoment: deployment
 deprecatated: deprecated
+deque: dequeue
 derefrencing: dereferencing
 derivied: derived
 dervied: derived
@@ -1258,6 +1298,7 @@ developement: development
 diagional: diagonal
 diagnotics: diagnostics
 diagonstic: diagnostic
+diappear: disappear
 dices: dice
 dicision: decision
 dictionarys: dictionaries
@@ -1339,6 +1380,7 @@ distibutes: distributes
 distibuting: distributing
 distibution: distribution
 distibutions: distributions
+distict: distinct
 distiction: distinction
 distiguish: distinguish
 distince: distance
@@ -1359,7 +1401,6 @@ doens't: doesn't
 doesen't: doesn't
 doesnot: does not
 doesnt: doesn't
-dont: don't
 donwload: download
 donwloaded: downloaded
 donwloading: downloading
@@ -1379,6 +1420,7 @@ ecclectic: eclectic
 ecnoded: encoded
 ecrypting: encrypting
 ecryption: encryption
+effecient: efficient
 effeciently: efficiently
 effekt: effect
 efficent: efficient
@@ -1463,10 +1505,12 @@ entitys: entities
 entiyt: entity
 enumarable: enumerable
 enumarate: enumerate
+enumation: enumeration
 enumberable: enumerable
 enumberables: enumerables
 enumeable: enumerable
 enumeratable: enumerable
+enumerater: enumerator
 enumeratoin: enumeration
 enumertated: enumerated
 enumreable: enumerable
@@ -1497,6 +1541,7 @@ erorr: error
 erorrs: errors
 errorneous: erroneous
 errorneously: erroneously
+errornous: erroneous
 errorrs: errors
 errror: error
 esential: essential
@@ -1515,6 +1560,7 @@ everyhing: everything
 everytime: every time
 everyting: everything
 evetually: eventually
+evironment: environment
 evnt: event
 exagerate: exaggerate
 exagerated: exaggerated
@@ -1548,6 +1594,8 @@ executation: execution
 executeable: executable
 exepected: expected
 exept: except
+exeption: exception
+exeption: exemption
 exercize: exercise
 exetrnal: external
 exisiting: existing
@@ -1556,6 +1604,7 @@ exisits: exists
 existance: existence
 existant: existent
 existnig: existing
+exlicit: explicit
 exlude: exclude
 exluded: excluded
 exlusion: exclusion
@@ -1631,7 +1680,10 @@ fisrt: first
 flakyness: flakiness
 flase: false
 flase: flask
+flattern: flatten
+flatterned: flattened
 flatterning: flattering
+flatterns: flattens
 flattned: flattened
 flattten: flatten
 flexibilty: flexibility
@@ -1738,6 +1790,7 @@ gettter: getter
 gloabl: global
 globaly: globally
 gnerated: generated
+gobally: globally
 gohper: gopher
 gooses: geese
 gracefull: graceful
@@ -1787,6 +1840,7 @@ hasnt: hasn't
 havent: haven't
 hbernate: hibernate
 headign: heading
+hebrev: hebrew
 heigh: height
 heighth: height
 heigth: height
@@ -1863,6 +1917,7 @@ imlement: implement
 imlemented: implemented
 imlicitly: implicitly
 immagine: imagine
+immediatelly: immediately
 immediatly: immediately
 immitate: imitate
 immitated: imitated
@@ -1882,6 +1937,7 @@ implementes: implements
 implemention: implementation
 implemetation: implementation
 implemetations: implementations
+implemeted: implemented
 implemeters: implementers
 implemnentation: implementation
 implemnentations: implementations
@@ -1967,6 +2023,7 @@ inerface: interface
 inerit: inert
 inerit: inherit
 inerited: inherited
+infered: inferred
 inferenece: inference
 inferface: interface
 infering: inferring
@@ -1987,8 +2044,10 @@ ingrediens: ingredient
 ingrediens: ingredients
 inherintance: inheritance
 inheritence: inheritance
+inherites: inherits
 inherittance: inheritance
 inhertited: inherited
+inicialized: initialized
 inifinite: infinite
 inifinity: infinity
 inifnity: infinity
@@ -1996,6 +2055,7 @@ inital: initial
 initally: initially
 injestion: injection
 inlcude: include
+inluding: including
 inmediately: immediately
 inncomplete: incomplete
 innefficient: inefficient
@@ -2030,6 +2090,9 @@ instanct: instance
 instanct: instant
 instanse: instance
 instantation: instantiation
+instantations: instantiations
+instantion: instantiation
+instantions: instantiations
 instence: instance
 instnce: instance
 instructiona: instruction
@@ -2052,6 +2115,7 @@ interferring: interfering
 intergrated: integrated
 internall: internal
 internall: internally
+internaly: internally
 internett: internet
 interopability: interoperability
 interpeted: interpreted
@@ -2086,8 +2150,10 @@ istall: install
 istead: instead
 iteractive: interactive
 iteractive: iterative
+iterater: iterator
 iteratons: iterations
 iteratons: iterators
+itereation: iteration
 iterface: interface
 itertion: iteration
 itrinsics: intrinsics
@@ -2095,10 +2161,14 @@ itterate: iterate
 javascipt: javascript
 javscript: javascript
 justifaction: justification
+keystoke: keystroke
+keystokes: keystrokes
 klass: class
 knonw: known
+knonwn: known
 knowning: knowing
 konsole: console
+lable: label
 lamdba: lambda
 langauge: language
 languge: language
@@ -2183,6 +2253,7 @@ memeber: member
 memebers: members
 memebrs: members
 merchantablity: merchantability
+mersanne: mersenne
 mesage: message
 mesasge: message
 messae: message
@@ -2193,6 +2264,7 @@ metalic: metallic
 metalurgic: metallurgic
 metalurgical: metallurgical
 metalurgy: metallurgy
+metched: matched
 metdata: metadata
 meterologist: meteorologist
 meterologists: meteorologists
@@ -2243,6 +2315,11 @@ mispell: misspell
 mispelled: misspelled
 mispelling: misspelling
 mispells: misspells
+missbehave: misbehave
+missbehaved: misbehaved
+missbehaves: misbehaves
+missbehaving: misbehaving
+missbehavior: misbehavior
 Missisipi: Mississippi
 Missisippi: Mississippi
 missmatch: mismatch
@@ -2250,6 +2327,10 @@ missmatches: mismatches
 misspel: misspell
 misspeled: misspelled
 misstyped: mistyped
+missuse: misuse
+missused: misused
+missuses: misuses
+missusing: misusing
 mistmatch: mismatch
 mistnested: misnested
 mmeory: memory
@@ -2304,7 +2385,6 @@ nessesary: necessary
 nonascii: non-ascii
 nonclusterd: nonclustered
 nondeterministc: nondeterministic
-nonempty: non-empty
 nonexistant: nonexistent
 nonmutable: immutable
 nonnull: non-null
@@ -2321,6 +2401,8 @@ nulll: null
 nulllable: nullable
 numberic: numeric
 numberous: numerous
+numericaly: numerically
+nummber: number
 nuulable: nullable
 obediance: obedience
 obejct: object
@@ -2368,13 +2450,16 @@ ocurrences: occurrences
 offical: official
 officals: officials
 ofset: offset
+oftenly: often
 ommision: omission
+ommit: omit
 ommited: omitted
 ommitted: omitted
 omnicron: omicron
 opeartion: operation
 opeator: operator
 openess: openness
+openinig: opening
 openned: opened
 openning: opening
 operant: operand
@@ -2394,7 +2479,7 @@ opthalmic: ophthalmic
 opthalmologist: ophthalmologist
 opthalmology: ophthalmology
 opthamologist: ophthalmologist
-optionaly: optional
+optimalization: optimization
 optionaly: optionally
 optionnaly: optionally
 oracl: oracle
@@ -2439,6 +2524,7 @@ overllaping: overlapping
 overoladed: overloaded
 overrid: override
 overridding: overriding
+overrideable: overridable
 overrided: overridden
 overrided: overrode
 overriden: overridden
@@ -2487,6 +2573,7 @@ parrent: parent
 particlar: particular
 particpate: participate
 partitoning: partitioning
+pased: passed
 passsword: password
 patern: pattern
 pathalogical: pathological
@@ -2526,6 +2613,7 @@ perseverence: perseverance
 persistance: persistence
 persistant: persistent
 persistece: persistence
+persisten: persistent
 persitent: persistent
 personel: personnel
 personell: personnel
@@ -2555,6 +2643,8 @@ poisition: position
 polimorphic: polymorphic
 polinator: pollinator
 polinators: pollinators
+pollyfill: polyfill
+pollyfills: polyfills
 polymoirphic: polymorphic
 polymorpic: polymorphic
 polynominal: polynomial
@@ -2567,6 +2657,8 @@ posesses: possesses
 posessing: possessing
 posession: possession
 posessions: possessions
+posibilities: possibilities
+posibility: possibility
 posible: possible
 positition: position
 positivies: positives
@@ -2614,6 +2706,10 @@ preforming: performing
 pregnat: pregnant
 preoccuppied: preoccupied
 preocupation: preoccupation
+preppend: prepend
+preppended: prepended
+preppending: prepending
+preppends: prepends
 prereleas: prerelease
 prerequisities: prerequisites
 prerequsite: prerequisite
@@ -2727,6 +2823,10 @@ reachablility: reachability
 readed: read
 readible: readable
 reallocte: reallocate
+realocate: reallocate
+realocated: reallocated
+realocates: reallocates
+realocating: reallocating
 realtime: real-time
 realy: really
 reasearch: research
@@ -2756,6 +2856,7 @@ rectange: rectangle
 recurrency: recurrence
 recursivelly: recursively
 recursve: recursive
+recusrive: recursive
 recyclyed: recycled
 rednerers: renderers
 redudant: redundant
@@ -2764,10 +2865,12 @@ refeference: reference
 referance: reference
 referece: referee
 referece: reference
+refereces: references
 referecnce: reference
 referecne: reference
 refered: referred
 refereneced: referenced
+referening: referencing
 referense: reference
 referernce: reference
 referes: refers
@@ -2809,7 +2912,9 @@ religius: religious
 religous: religious
 rellocate: reallocate
 rellocate: relocate
+remaininig: remaining
 rememebr: remember
+remmeber: remember
 removeable: removable
 renderered: rendered
 renderering: rendering
@@ -2829,11 +2934,14 @@ repesent: represent
 repesents: represents
 repetetive: repetitive
 repitition: repetition
+replacable: replaceable
 reponse: response
 reprersent: represent
 represantion: representation
 represenation: representation
+represens: represents
 represensation: representation
+representig: representing
 represention: representation
 reproducable: reproducible
 reprsentations: representations
@@ -2843,6 +2951,7 @@ repsonse: response
 reqest: request
 reqested: requested
 reqeust: request
+reqiured: required
 requesed: requested
 requeste: requested
 requeste: requests
@@ -2864,6 +2973,7 @@ resistence: resistance
 resistent: resistant
 resolvabe: resolvable
 resotre: restore
+resouces: resources
 resourse: recourse
 resourse: resource
 responce: response
@@ -2895,12 +3005,14 @@ retrived: retrieved
 retrives: retries
 retrives: retrieves
 retriving: retrieving
+retuns: returns
 retured: returned
 returnd: return
 returnd: returned
 returnes: returned
 returnes: returns
 returnning: returning
+revers: reverse
 rewinded: rewound
 rewriten: rewritten
 rolledback: rollbacked
@@ -2909,9 +3021,12 @@ rollsback: rolls back
 roomate: roommate
 roundhous: roundhouse
 roundrobin: round-robin
+rount: round
 runing: running
 runned: ran
 runned: run
+rutime: runtime
+rutnime: runtime
 safisfies: satisfies
 samaphore: semaphore
 sargeant: sergeant
@@ -2922,6 +3037,7 @@ satelites: satellites
 Saterday: Saturday
 satified: satisfied
 satifies: satisfies
+satisfaciton: satisfaction
 satisfiabilty: satisfiability
 satisifed: satisfied
 satisified: satisfied
@@ -2956,6 +3072,7 @@ sensititive: sensitive
 senstivity: sensitivity
 sentinal: sentinel
 separarately: separately
+separatelly: separately
 separeted: separated
 separted: separated
 separtor: separator
@@ -2975,10 +3092,12 @@ sequance: sequence
 sequece: sequence
 sequencial: sequential
 sequencially: sequentially
+sequnece: sequence
 sequneces: sequences
 serivces: services
 servcie: service
 servicable: serviceable
+sesison: session
 seting: setting
 setings: settings
 setlement: settlement
@@ -3008,6 +3127,7 @@ signifant: significant
 signifcance: significance
 significand: significant
 significently: significantly
+signiture: signature
 signle: single
 signture: signature
 sillynes: silliness
@@ -3066,11 +3186,13 @@ standart: standard
 standrad: standard
 stategy: strategy
 statemenet: statement
+statemenets: statements
 statetement: statement
 staticly: statically
 statment: statement
 statments: statements
 stedfast: steadfast
+stirng: string
 storeage: storage
 streamimg: streaming
 strenght: strength
@@ -3130,7 +3252,6 @@ succesion: succession
 succesive: successive
 succesor: successor
 successfull: successful
-successfuly: successful
 successfuly: successfully
 succintly: succinctly
 suceeded: succeeded
@@ -3149,6 +3270,7 @@ sufferring: suffering
 sufficent: sufficient
 sufficently: sufficiently
 suffixies: suffixes
+sufix: suffix
 suggetion: suggestion
 sumable: summable
 sumamry: summary
@@ -3205,10 +3327,12 @@ surprize: surprise
 swiming: swimming
 switchs: switches
 swtich: switch
+symblic: symbolic
 symetrical: symmetrical
 symetrically: symmetrically
 symetry: symmetry
 syncd: synced
+synchnously: synchronously
 synchonously: synchronously
 synchronosuly: synchronously
 synchronus: synchronous
@@ -3216,6 +3340,8 @@ syncronous: synchronous
 synonomous: synonymous
 synopsys: synopsis
 synoyms: synonyms
+syntesized: synthesized
+synthetized: synthesized
 sytnax: syntax
 szie: size
 taht: that
@@ -3265,6 +3391,7 @@ tokenizier: tokenizer
 tomatos: tomatoes
 tommorow: tomorrow
 tommorrow: tomorrow
+tood: todo
 torpedos: torpedoes
 traditionnal: traditional
 trafic: traffic
@@ -3319,6 +3446,7 @@ Ukranian: Ukrainian
 unaccessible: inaccessible
 unacompanied: unaccompanied
 unamanaged: unmanaged
+unappropriate: inappropriate
 unccompressed: uncompressed
 uncertainity: uncertainty
 unchallengable: unchallengeable
@@ -3370,6 +3498,7 @@ unneccessarily: unnecessarily
 unneccessary: unnecessary
 unnecesarily: unnecessarily
 unnecesary: unnecessary
+unnnecesary: unnecessary
 unordererd: unordered
 unpakc: unpack
 unqoted: unquoted
@@ -3401,6 +3530,7 @@ usefuly: usefully
 userdefined: user-defined
 usuall: usual
 usuall: usually
+usualy: usually
 usuaully: usually
 ususally: usually
 utilites: utilities
@@ -3459,6 +3589,8 @@ whther: whether
 wierd: weird
 wihout: without
 wiht: with
+wihtin: within
+wihtout: without
 wilcard: wildcard
 wilcards: wildcards
 withing: within
@@ -3479,6 +3611,8 @@ wrappping: wrapping
 wrapps: wraps
 writte: write
 writte: written
+wrtten: written
+wtehher: whether
 wtih: with
 youve: you've
 zerobased: zero-based

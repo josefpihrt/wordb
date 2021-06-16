@@ -26,6 +26,7 @@ exe
 exif
 flac
 flv
+fpg
 gitattributes
 gitconfig
 gitignore
@@ -93,7 +94,6 @@ vsix
 vsixmanifest
 wav
 wbmp
-webp
 winmd
 wma
 wmv

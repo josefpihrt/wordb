@@ -30,5 +30,7 @@ serilise: sterilise
 serilised: serialised
 serilised: sterilised
 skilfull: skilful
+specialied: specialised
 syncronisation: synchronisation
+synthezised: synthesised
 uninitialied: uninitialised
