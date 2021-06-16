@@ -44,6 +44,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "en-us", "en-us", "{240722AD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data.other", "data.other", "{1E4F43A0-3114-468C-B32C-C92A36C468D0}"
 	ProjectSection(SolutionItems) = preProject
+		data.other\cil_instructions.txt = data.other\cil_instructions.txt
 		data.other\colors.txt = data.other\colors.txt
 		data.other\names.txt = data.other\names.txt
 		data.other\tech.file_extensions.txt = data.other\tech.file_extensions.txt
@@ -51,7 +52,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data.other", "data.other", 
 		data.other\tech.other.txt = data.other\tech.other.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordb", "src\Wordb\Wordb.csproj", "{A8AC9580-1940-4A8F-94A2-5BC128F4098A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wordb", "src\Wordb\Wordb.csproj", "{A8AC9580-1940-4A8F-94A2-5BC128F4098A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
