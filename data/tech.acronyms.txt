@@ -31,6 +31,7 @@ cdn
 cgi
 cil
 cisc
+cla
 cli
 clr
 cls
@@ -46,6 +47,7 @@ csc
 csrf
 csrss
 ctcp
+cwd
 dao
 db
 dba
@@ -71,6 +73,7 @@ dsl
 dsn
 dsssl
 dtd
+dte
 dto
 dtos
 dvi
@@ -185,6 +188,7 @@ mime
 mips
 mpeg
 mpls
+mru
 msde
 msdn
 msdos
@@ -194,6 +198,7 @@ msil
 msmq
 mssql
 msvc
+mta
 mvc
 mvvm
 nan
@@ -245,6 +250,7 @@ posix
 ppi
 pptp
 prng
+psu
 qldb
 qvbr
 ram
@@ -362,6 +368,7 @@ wpa
 wpf
 wsdl
 wsgi
+wsl
 wss
 wwan
 www

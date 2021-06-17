@@ -292,6 +292,7 @@ anonynous: anonymous
 anotation: annotation
 anounced: announced
 anouncement: announcement
+anoying: annoying
 anscestor: ancestor
 Antartic: Antarctic
 Antartica: Antarctica
@@ -514,6 +515,7 @@ automaticall: automatically
 automaticaly: automatically
 automaticlly: automatically
 automaticly: automatically
+automatilly: automatically
 automatize: automate
 automatized: automated
 automatizes: automates
@@ -524,6 +526,7 @@ auxilliary: auxiliary
 auxuliary: auxiliary
 avaiable: available
 avaialbe: available
+avaialble: available
 availabilites: availabilities
 availabilty: availability
 availablility: availability
@@ -616,7 +619,6 @@ breakes: breaks
 breakthough: breakthrough
 briliant: brilliant
 brillant: brilliant
-brushs: brush
 brushs: brushes
 buble: bubble
 buider: builder
@@ -722,6 +724,7 @@ charachters: characters
 characteres: characters
 charactor: character
 charactors: characters
+charater: character
 charaters: characters
 charaters: charters
 charcter: character
@@ -758,6 +761,7 @@ classs: classes
 classses: classes
 classsify: classify
 clinicaly: clinically
+clippboard: clipboard
 clustser: cluster
 cmopression: compression
 coallescence: coalescence
@@ -769,6 +773,7 @@ coeficients: coefficients
 coerse: coarse
 coerse: coerce
 coersion: coercion
+cointains: contains
 colaborations: collaborations
 colapse: collapse
 colapsed: collapsed
@@ -843,6 +848,8 @@ committments: commitments
 committs: commits
 commma: comma
 commmand: command
+commmit: commit
+commmits: commits
 commmon: common
 communcation: communication
 comoponents: components
@@ -1143,6 +1150,7 @@ cummulative: cumulative
 curency: currency
 curent: current
 curently: currently
+currectly: correctly
 currenct: currency
 currenct: current
 currenly: currently
@@ -1150,6 +1158,8 @@ currenty: currently
 curreny: currency
 curreny: current
 custm: custom
+custon: custom
+Cyrilic: Cyrillic
 dacquiri: daiquiri
 dafault: default
 Dannish: Danish
@@ -1233,6 +1243,7 @@ delimeted: delimited
 delimeter: delimiter
 delimitered: delimited
 demostration: demonstration
+demysifier: demystifier
 denegrating: denigrating
 denomitator: denominator
 deparment: department
@@ -1373,6 +1384,7 @@ displas: displays
 disposible: disposable
 dispostion: disposition
 dissapear: disappear
+dissapears: disappears
 dissapoint: disappoint
 distibute: distribute
 distibuted: distributed
@@ -1405,7 +1417,6 @@ donwload: download
 donwloaded: downloaded
 donwloading: downloading
 donwloads: downloads
-doubleclick: double-click
 drunkeness: drunkenness
 dumbell: dumbbell
 duplciated: duplicated
@@ -1672,11 +1683,13 @@ filetered: filtered
 finacial: financial
 finalizeres: finalizers
 finaly: finally
+financal: financial
 financialy: financially
 finanical: financial
 finitenes: finiteness
 finsh: finish
 fisrt: first
+fixs: fixes
 flakyness: flakiness
 flase: false
 flase: flask
@@ -1691,9 +1704,9 @@ florescent: fluorescent
 flourescent: fluorescent
 focussed: focused
 focusses: focuses
+focussing: focusing
 follback: fallback
 followinig: following
-followup: follow-up
 follwed: followed
 follwoing: following
 folowing: following
@@ -1731,6 +1744,7 @@ freezed: frozen
 freind: friend
 frequences: frequencies
 frist: first
+fucntion: function
 fuction: function
 fulfiled: fulfilled
 fullfilled: fulfilled
@@ -1825,6 +1839,7 @@ hanlders: handlers
 happend: happened
 happend: happens
 happenning: happening
+happlily: happily
 harasment: harassment
 harasments: harassments
 harassement: harassment
@@ -1840,7 +1855,7 @@ hasnt: hasn't
 havent: haven't
 hbernate: hibernate
 headign: heading
-hebrev: hebrew
+Hebrev: Hebrew
 heigh: height
 heighth: height
 heigth: height
@@ -1891,6 +1906,7 @@ idenifier: identifier
 idenifies: identifies
 idenitifiers: identifiers
 identfier: identifier
+identic: identical
 identifer: identifier
 identifers: identifiers
 identificator: identifier
@@ -2047,7 +2063,6 @@ inheritence: inheritance
 inherites: inherits
 inherittance: inheritance
 inhertited: inherited
-inicialized: initialized
 inifinite: infinite
 inifinity: infinity
 inifnity: infinity
@@ -2100,7 +2115,9 @@ instructiona: instructions
 insufficent: insufficient
 inteface: interface
 intefaces: interfaces
+integation: integration
 integeration: integration
+Integraded: integrated
 intelectual: intellectual
 inteligence: intelligence
 inteligent: intelligent
@@ -2113,6 +2130,7 @@ interesction: intersection
 interferred: interfered
 interferring: interfering
 intergrated: integrated
+intergration: integration
 internall: internal
 internall: internally
 internaly: internally
@@ -2253,7 +2271,7 @@ memeber: member
 memebers: members
 memebrs: members
 merchantablity: merchantability
-mersanne: mersenne
+Mersanne: Mersenne
 mesage: message
 mesasge: message
 messae: message
@@ -2479,7 +2497,6 @@ opthalmic: ophthalmic
 opthalmologist: ophthalmologist
 opthalmology: ophthalmology
 opthamologist: ophthalmologist
-optimalization: optimization
 optionaly: optionally
 optionnaly: optionally
 oracl: oracle
@@ -2565,7 +2582,6 @@ parente: parented
 parente: parents
 parentesis: parenthesis
 parenthethis: parenthesis
-parenthised: parenthesized
 paritioning: partitioning
 parliment: parliament
 parmeter: parameter
@@ -2574,6 +2590,7 @@ particlar: particular
 particpate: participate
 partitoning: partitioning
 pased: passed
+passprase: passphrase
 passsword: password
 patern: pattern
 pathalogical: pathological
@@ -2701,6 +2718,7 @@ prefered: preferred
 prefering: preferring
 preferrable: preferable
 preferrably: preferably
+preffer: prefer
 preformance: performance
 preforming: performing
 pregnat: pregnant
@@ -2762,6 +2780,7 @@ profesor: professor
 profesors: professors
 professer: professes
 professer: professor
+progams: programs
 progess: progress
 programable: programmable
 programatically: programmatically
@@ -2936,6 +2955,7 @@ repetetive: repetitive
 repitition: repetition
 replacable: replaceable
 reponse: response
+repositores: repositories
 reprersent: represent
 represantion: representation
 represenation: representation
@@ -3031,7 +3051,6 @@ safisfies: satisfies
 samaphore: semaphore
 sargeant: sergeant
 sargeants: sergeants
-sargent: sergeant
 satelite: satellite
 satelites: satellites
 Saterday: Saturday
@@ -3073,6 +3092,7 @@ senstivity: sensitivity
 sentinal: sentinel
 separarately: separately
 separatelly: separately
+separete: separate
 separeted: separated
 separted: separated
 separtor: separator
@@ -3086,6 +3106,7 @@ seperately: separately
 seperation: separation
 seperator: separator
 seperators: separators
+seprate: separate
 Septemeber: September
 seqence: sequence
 sequance: sequence
@@ -3340,8 +3361,6 @@ syncronous: synchronous
 synonomous: synonymous
 synopsys: synopsis
 synoyms: synonyms
-syntesized: synthesized
-synthetized: synthesized
 sytnax: syntax
 szie: size
 taht: that
@@ -3367,6 +3386,7 @@ terrestial: terrestrial
 terriffic: terrific
 thats: that's
 thereafeter: thereafter
+therefor: therefore
 therfore: therefore
 thershold: threshold
 thesholds: threshold
@@ -3521,6 +3541,8 @@ untill: until
 unwinded: unwound
 unwrappered: unwrapped
 upcomming: upcoming
+uper: super
+uper: upper
 upholstry: upholstery
 uppper: upper
 uresolved: unresolved
@@ -3557,6 +3579,7 @@ verfier: verifier
 verifiy: verify
 verifyable: verifiable
 verifyer: verifier
+verison: version
 versionned: versioned
 versionning: versioning
 veryfy: verify

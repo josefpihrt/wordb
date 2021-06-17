@@ -9,6 +9,7 @@ behaivior: behavior
 behavoir: behavior
 behavor: behavior
 behavvior: behavior
+behvaior: behavior
 caracterized: characterized
 colorfull: colorful
 critisize: criticize
@@ -33,6 +34,7 @@ fullfill: fulfill
 fullfills: fulfills
 grascale: grayscale
 graysacle: grayscale
+inicialized: initialized
 initailized: initialized
 initalization: initialization
 initalize: initialize
@@ -68,6 +70,7 @@ neigbor: neighbor
 neigborhood: neighborhood
 neigbors: neighbors
 normilize: normalize
+optimalization: optimization
 optmization: optimization
 plagerize: plagiarize
 preautorization: preauthorization
@@ -104,6 +107,8 @@ syncronization: synchronization
 syncronize: synchronize
 syncronized: synchronized
 syncronizing: synchronizing
+syntesized: synthesized
+synthetized: synthesized
 synthezised: synthesized
 uninitalized: uninitialized
 uninitialied: uninitialized

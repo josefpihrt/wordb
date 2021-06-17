@@ -66,6 +66,7 @@ Archibald
 Archimedes
 Arianna
 Armand
+Arnie
 Arnold
 Artemis
 Arthur
@@ -275,6 +276,7 @@ Emil
 Emilio
 Emily
 Emma
+Emmanuel
 Erasmus
 Eric
 Erik
@@ -435,6 +437,7 @@ Jolie
 Jonah
 Jonas
 Jonathan
+Jonathon
 Jordan
 Joseph
 Josephine
@@ -499,6 +502,7 @@ Lee
 Leila
 Leland
 Lennox
+Leo
 Leon
 Leonard
 Leonardo

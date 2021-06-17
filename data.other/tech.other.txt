@@ -83,6 +83,7 @@ onchange
 onclick
 paramref
 printf
+psz
 quot
 raquo
 rcpt

@@ -30,6 +30,7 @@ Atheros
 Athlon
 Atlassian
 Attenborough
+AutoCAD
 Avenir
 Avogadro
 Axapta
@@ -172,6 +173,7 @@ Freud
 Friedman
 Frobenius
 Frutiger
+Fuji
 Fujitsu
 Gabriola
 Gadugi
@@ -201,6 +203,7 @@ Googlebot
 Grafton
 Grammarly
 Gravatar
+Gravatars
 Gravura
 Grisham
 Gucci
@@ -208,6 +211,8 @@ Guinness
 Gulliver
 Gungsuh
 Haettenschweiler
+Hangeul
+Hangul
 Hannibal
 Hanselman
 Harvard
@@ -221,6 +226,7 @@ Helvetica
 Hemingway
 Hennessy
 Heyerdahl
+Hilton
 Hindenburg
 Hirohito
 Hitachi
@@ -301,6 +307,7 @@ Laplace
 Learjet
 Lebesgue
 Leelawadee
+Leia
 Leibniz
 Lempel
 Lenin
@@ -525,6 +532,7 @@ Trebuchet MS
 Trello
 Trivago
 Tupperware
+Turing
 Twilio
 Twitter
 Twofish

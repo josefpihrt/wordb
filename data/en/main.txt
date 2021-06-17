@@ -48050,6 +48050,7 @@ torches
 torching
 torchlight
 tore
+Tories
 torment
 tormented
 tormenting
@@ -48090,6 +48091,8 @@ tortured
 tortures
 torturing
 torturous
+Tory
+Toryism
 tosh
 toss
 tossed

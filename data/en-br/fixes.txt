@@ -22,6 +22,7 @@ manoeuverability: manoeuvrability
 manoeuvering: manoeuvring
 mispelt: misspelt
 neigbourhood: neighbourhood
+parenthised: parenthesised
 serialier: serialiser
 serilisation: serialisation
 serilisation: sterilisation

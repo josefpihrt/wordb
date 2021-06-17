@@ -66,6 +66,7 @@ lcd
 lifo
 llc
 lol
+lte
 mit
 mms
 mph

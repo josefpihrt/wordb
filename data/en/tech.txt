@@ -451,6 +451,7 @@ grepping
 gzipped
 hackfest
 hackfests
+hacky
 hardcode
 hardcoded
 hardcodes
@@ -676,6 +677,7 @@ nullability
 nullable
 nullables
 nullish
+numerics
 nybble
 nybbles
 observables
@@ -1073,6 +1075,8 @@ tuple
 tupleize
 tupleized
 tuples
+twip
+twips
 typeless
 uglified
 uglify

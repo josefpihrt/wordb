@@ -5,8 +5,10 @@ ALGOL
 Antlr
 AppleScript
 AppVeyor
+Araxis
 Arduino
 Artifactory
+Atari
 Authenticode
 Autocrypt
 Autofac
@@ -20,6 +22,7 @@ Brotli
 Bugzilla
 CakePHP
 cdnjs
+Chocolatey
 Chromecast
 Clojure
 CMake
@@ -29,6 +32,7 @@ CodePlex
 CoffeeScript
 Commitizen
 CommonJS
+ConEmu
 CSharp
 CSS
 Cygwin
@@ -73,9 +77,11 @@ gRPC
 Hadoop
 Hangfire
 Haskell
+Hastlayer
 HSQLDB
 HTML
 ICSharpCode
+IntelliJ
 IntelliSense
 IntelliTrace
 InterBase
@@ -95,6 +101,7 @@ Kotlin
 Kubernetes
 LaTeX
 Less
+LibreOffice
 Linkify
 Lisp
 Lua
@@ -138,6 +145,7 @@ OmniSharp
 OpenGL
 OpenID
 OpenOffice
+OpenSSH
 OpenSSL
 Pascal
 PeachPie
@@ -172,6 +180,7 @@ RoboHash
 Ruby
 Rust
 RxJS
+RyuJIT
 SAML
 Sass
 Scala
