@@ -1164,7 +1164,6 @@ dacquiri: daiquiri
 dafault: default
 Dannish: Danish
 daquiri: daiquiri
-dashboad: dashboard
 databse: database
 deafult: default
 deamon: daemon
@@ -1310,7 +1309,6 @@ developement: development
 diagional: diagonal
 diagnotics: diagnostics
 diagonstic: diagnostic
-dialgo: dialog
 diappear: disappear
 dices: dice
 dicision: decision
@@ -2179,7 +2177,6 @@ itertion: iteration
 itrinsics: intrinsics
 itterate: iterate
 javascipt: javascript
-javasript: javascript
 javscript: javascript
 justifaction: justification
 keystoke: keystroke
@@ -2370,7 +2367,6 @@ morever: moreover
 morfologic: morphologic
 Morrocco: Morocco
 Morroco: Morocco
-mssing: missing
 muiltiple: multiple
 muliple: multiple
 mulitiple: multiple

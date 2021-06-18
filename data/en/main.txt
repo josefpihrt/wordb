@@ -22171,8 +22171,6 @@ helming
 helms
 helmsman
 help
-helpdesk
-helpdesks
 helped
 helper
 helpers
@@ -33213,7 +33211,6 @@ pappy
 paprika
 papyrus
 par
-para
 parable
 parables
 parabola

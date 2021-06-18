@@ -76,10 +76,8 @@ dtd
 dte
 dto
 dtos
-dvcs
 dvi
 dvr
-dwh
 dxgi
 dxva
 ebcdic
@@ -280,7 +278,6 @@ rtmps
 rtos
 rtsp
 rxvt
-saas
 sasl
 scm
 sctp
@@ -378,7 +375,6 @@ www
 xdg
 xdmcp
 xhr
-xliff
 xmlns
 xmpp
 xna

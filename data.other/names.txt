@@ -24,8 +24,6 @@ Bruno
 Carlo
 Carmen
 Carsten
-Claudia
-Claudio
 Clément
 Constantinos
 Cristian
@@ -143,8 +141,6 @@ Matyáš
 Maximilian
 Michaela
 Michal
-Miguel
-Mihály
 Milan
 Miloš
 Moshe
@@ -212,7 +208,6 @@ Vitalij
 Vitaly
 Vladimir
 Vladimír
-Volodymyr
 Vyacheslav
 Wilhelm
 Wolfgang
