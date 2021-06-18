@@ -66,6 +66,7 @@ mkdir
 mscorlib
 mssqlserver
 msvcrt
+msxsl
 nameof
 netconfig
 netcore
@@ -84,6 +85,7 @@ onclick
 paramref
 printf
 psz
+pwsh
 quot
 raquo
 rcpt
@@ -93,12 +95,14 @@ resx
 rmdir
 rvalue
 semver
+sgdm
 shlobj
 shlwapi
 sizeof
 smallint
 sqlserver
 stackalloc
+stdafx
 stddev
 stderr
 stdin

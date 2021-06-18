@@ -1,6 +1,7 @@
 ﻿ABAP
 ActionScript
 ActiveX
+Affero
 ALGOL
 Antlr
 AppleScript
@@ -64,6 +65,7 @@ FoxPro
 FSharp
 Giphy
 Git
+Gitea
 GitHub
 GitLab
 GitLink
@@ -96,6 +98,7 @@ jQuery
 JSFiddle
 JSON
 KDiff
+Kentico
 Kibana
 Kotlin
 Kubernetes
@@ -125,6 +128,7 @@ MSTest
 MyGet
 MySql
 Netscape
+Nette
 Newtonsoft
 Nginx
 NHibernate
@@ -139,6 +143,7 @@ NuGet
 NumPy
 NUnit
 OAuth
+Octicons
 Octocat
 Octokit
 OmniSharp
@@ -185,6 +190,7 @@ SAML
 Sass
 Scala
 Scilab
+SemanticMerge
 Serilog
 SignalR
 Silverlight

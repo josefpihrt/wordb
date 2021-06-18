@@ -483,6 +483,8 @@ hotkeys
 HRESULT
 hypertext
 hyphenator
+identicon
+identicons
 ienumerable
 ienumerables
 iformattable
@@ -538,6 +540,7 @@ keyframes
 keygen
 keygens
 keypress
+keypresses
 keyset
 keysets
 kludge
