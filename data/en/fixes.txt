@@ -706,6 +706,7 @@ Celcius: Celsius
 cemetaries: cemeteries
 cemetary: cemetery
 centraly: centrally
+centred: centered
 ceretificate: certificate
 cerfificate: certificate
 certainity: certainty
@@ -1164,6 +1165,7 @@ dacquiri: daiquiri
 dafault: default
 Dannish: Danish
 daquiri: daiquiri
+dashboad: dashboard
 databse: database
 deafult: default
 deamon: daemon
@@ -1309,6 +1311,7 @@ developement: development
 diagional: diagonal
 diagnotics: diagnostics
 diagonstic: diagnostic
+dialgo: dialog
 diappear: disappear
 dices: dice
 dicision: decision
@@ -1659,6 +1662,7 @@ extention: extension
 extentions: extensions
 exteranl: external
 extesibility: extensibility
+extied: exited
 extraterrestial: extraterrestrial
 extraterrestials: extraterrestrials
 extreem: extreme
@@ -2087,6 +2091,7 @@ insenstive: insensitive
 insenstively: insensitively
 insentitive: insensitive
 insentivity: insensitivity
+insered: inserted
 insersion: insertion
 insersion: inversion
 insertation: insertion
@@ -2177,6 +2182,7 @@ itertion: iteration
 itrinsics: intrinsics
 itterate: iterate
 javascipt: javascript
+javasript: javascript
 javscript: javascript
 justifaction: justification
 keystoke: keystroke
@@ -2367,6 +2373,7 @@ morever: moreover
 morfologic: morphologic
 Morrocco: Morocco
 Morroco: Morocco
+mssing: missing
 muiltiple: multiple
 muliple: multiple
 mulitiple: multiple
@@ -2737,6 +2744,7 @@ prespective: perspective
 prestigeous: prestigious
 prettyfy: prettify
 prettyfying: prettifying
+prevens: prevents
 previoulsy: previously
 prevously: previously
 primarely: primarily
@@ -3237,6 +3245,7 @@ subexpresssion: subexpression
 subexpresssions: subexpressions
 subfoler: subfolder
 sublcass: subclass
+submodul: submodule
 subqery: subquery
 subqyery: subquery
 subscribition: subscription
@@ -3592,6 +3601,7 @@ villify: vilify
 visability: visibility
 visbility: visibility
 visibile: visible
+visibilites: visibilities
 visibilty: visibility
 visiblity: visibility
 vitrually: virtually

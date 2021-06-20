@@ -24,6 +24,8 @@ Bruno
 Carlo
 Carmen
 Carsten
+Claudia
+Claudio
 Clément
 Constantinos
 Cristian
@@ -107,6 +109,8 @@ Juan
 Juanita
 Julien
 Julius
+Kamil
+Kamila
 Karsten
 Kasper
 Kenji
@@ -141,6 +145,8 @@ Matyáš
 Maximilian
 Michaela
 Michal
+Miguel
+Mihály
 Milan
 Miloš
 Moshe
@@ -208,6 +214,7 @@ Vitalij
 Vitaly
 Vladimir
 Vladimír
+Volodymyr
 Vyacheslav
 Wilhelm
 Wolfgang

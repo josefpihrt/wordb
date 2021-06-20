@@ -32,6 +32,7 @@ gitconfig
 gitignore
 htm
 ico
+idl
 ini
 jpeg
 jpg
@@ -68,6 +69,7 @@ psmdcp
 pubxml
 rar
 resx
+rgs
 sdf
 sfproj
 shproj
@@ -78,6 +80,7 @@ snupkg
 srt
 suo
 svg
+swf
 tgz
 tsv
 ttf
@@ -97,7 +100,10 @@ wbmp
 winmd
 wma
 wmv
+wxi
+wxs
 xap
+xlf
 xls
 xlsb
 xlsm

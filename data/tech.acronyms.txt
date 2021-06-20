@@ -19,6 +19,7 @@ awssdk
 bcc
 bcl
 bcp
+bgra
 bios
 bof
 bom
@@ -76,8 +77,10 @@ dtd
 dte
 dto
 dtos
+dvcs
 dvi
 dvr
+dwh
 dxgi
 dxva
 ebcdic
@@ -156,6 +159,7 @@ jdk
 jni
 jpeg
 jpg
+jql
 jsp
 jwk
 jwks
@@ -178,6 +182,7 @@ lts
 lzma
 mac
 mapi
+mbcs
 mbps
 mdn
 mef
@@ -278,6 +283,7 @@ rtmps
 rtos
 rtsp
 rxvt
+saas
 sasl
 scm
 sctp
@@ -375,6 +381,7 @@ www
 xdg
 xdmcp
 xhr
+xliff
 xmlns
 xmpp
 xna

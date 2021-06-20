@@ -14,6 +14,7 @@ Algolia
 Alighieri
 Alipay
 Allen
+Allianz
 Amadeus
 Amaretto
 AMD
@@ -48,6 +49,7 @@ Baskerville
 Batang
 Baudelaire
 Bayes
+BBC
 Beatles
 Becquerel
 Beethoven
@@ -56,8 +58,10 @@ Bernoulli
 Betamax
 Bézier
 Bismarck
+BMW
 Bodoni
 Boeing
+Bosch
 Botticelli
 Braintree
 Britannica
@@ -74,6 +78,7 @@ Cambria
 Campbell
 Candara
 Candida
+Capgemini
 Caravaggio
 Carling
 Carnegie
@@ -97,6 +102,7 @@ Citröen
 Clarendon
 Clark
 Cloudflare
+Cognos
 Cohen
 Cointreau
 Collins
@@ -351,6 +357,7 @@ Michelangelo
 Michelin
 Microsoft
 Minecraft
+Minolta
 Mitsubishi
 Möbius
 Modigliani
@@ -374,6 +381,7 @@ Napster
 NASCAR
 NASDAQ
 Nefertiti
+Nestlé
 Netflix
 Nicholson
 Nietzsche
@@ -541,6 +549,7 @@ Ubuntu
 UNESCO
 UNICEF
 Unicode
+UniCredit
 Unilever
 UnionPay
 Unix
