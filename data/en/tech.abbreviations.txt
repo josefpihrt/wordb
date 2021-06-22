@@ -34,6 +34,7 @@ deps
 desc
 dest
 dev
+devs
 diag
 dic
 dict

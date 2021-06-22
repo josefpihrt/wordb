@@ -4,6 +4,7 @@ ActiveX
 Affero
 ALGOL
 Antlr
+Apiary
 AppleScript
 AppVeyor
 Araxis

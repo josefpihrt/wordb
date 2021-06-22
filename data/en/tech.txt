@@ -254,6 +254,7 @@ coprocessors
 copyability
 cos
 cosh
+cron
 ctrl
 cyclomatic
 daemonization

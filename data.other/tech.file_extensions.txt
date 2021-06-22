@@ -37,6 +37,8 @@ ini
 jpeg
 jpg
 js
+jsonl
+jsx
 lnk
 lsp
 mdb

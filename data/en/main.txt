@@ -6395,7 +6395,9 @@ caesarean
 caesareans
 caesium
 cafe
+café
 cafes
+cafés
 cafeteria
 cafeterias
 caffeinated
@@ -19371,6 +19373,7 @@ freeman
 freemason
 freemasonry
 freemen
+freemium
 freeness
 freer
 frees

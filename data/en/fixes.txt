@@ -1693,6 +1693,7 @@ finanical: financial
 finitenes: finiteness
 finsh: finish
 fisrt: first
+fitler: filter
 fixs: fixes
 flakyness: flakiness
 flase: false
@@ -2595,6 +2596,7 @@ parmeter: parameter
 parrent: parent
 particlar: particular
 particpate: participate
+particulary: particularly
 partitoning: partitioning
 pased: passed
 passprase: passphrase
@@ -2658,6 +2660,7 @@ pinapples: pineapples
 pipelne: pipeline
 pipleine: pipeline
 placeholer: placeholder
+plaform: platform
 plantiff: plaintiff
 plantiffs: plaintiffs
 platfor: platform
@@ -2726,6 +2729,7 @@ prefering: preferring
 preferrable: preferable
 preferrably: preferably
 preffer: prefer
+preffered: preferred
 preformance: performance
 preforming: performing
 pregnat: pregnant
@@ -3017,6 +3021,7 @@ respository: repository
 respresentable: representable
 respresents: represents
 restaraunt: restaurant
+restared: restarted
 restict: restrict
 restrictrive: restrictive
 restult: result
@@ -3071,6 +3076,7 @@ satisified: satisfied
 satistied: satisfied
 satistying: satisfying
 sccessful: successful
+schedue: schedule
 schedular: scheduler
 scrol: scroll
 seaching: searching

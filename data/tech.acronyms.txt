@@ -291,6 +291,7 @@ sdk
 sdks
 sdram
 seo
+serp
 sftp
 sfx
 sgml

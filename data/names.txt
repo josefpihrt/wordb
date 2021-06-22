@@ -57,6 +57,7 @@ Beretta
 Bernoulli
 Betamax
 Bézier
+Bing
 Bismarck
 BMW
 Bodoni
@@ -260,9 +261,11 @@ Inconsolata
 InfoCert
 Instagram
 InstaPayment
+Integromat
 Intel
 Intergraph
 iOS
+iPhone
 Irving
 Isracard
 Itanium
@@ -283,6 +286,7 @@ Kamasutra
 Karatsuba
 Kawasaki
 Keaton
+Keboola
 Kennedy
 Kepler
 Kerberos
