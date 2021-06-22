@@ -30,6 +30,7 @@ fpg
 gitattributes
 gitconfig
 gitignore
+hbs
 htm
 ico
 idl

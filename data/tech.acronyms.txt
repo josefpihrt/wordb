@@ -45,6 +45,7 @@ cpu
 crc
 crlf
 csc
+csdl
 csrf
 csrss
 ctcp
@@ -200,6 +201,7 @@ msdos
 msdtc
 msie
 msil
+msl
 msmq
 mssql
 msvc
@@ -286,6 +288,7 @@ rxvt
 saas
 sasl
 scm
+scss
 sctp
 sdk
 sdks
@@ -310,6 +313,7 @@ srid
 ssas
 sscli
 ssd
+ssdl
 ssdp
 ssh
 ssid

@@ -9,6 +9,7 @@ Aeroflot
 Aharoni
 Airbnb
 Airbus
+Akamai
 Aldhabi
 Algolia
 Alighieri
@@ -32,6 +33,7 @@ Athlon
 Atlassian
 Attenborough
 AutoCAD
+Avast
 Avenir
 Avogadro
 Axapta
@@ -59,6 +61,7 @@ Betamax
 Bézier
 Bing
 Bismarck
+Bloomberg
 BMW
 Bodoni
 Boeing

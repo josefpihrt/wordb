@@ -40,6 +40,7 @@ CSS
 Cygwin
 dBase
 Delphi
+Dependabot
 DirectX
 DocFX
 Docker
@@ -208,6 +209,7 @@ SVN
 Swagger
 Swashbuckle
 Swift
+Sysdig
 Taskify
 TeamCity
 Telerik

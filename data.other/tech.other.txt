@@ -10,6 +10,7 @@ blogspot
 byref
 byval
 codegen
+colspan
 cordbg
 coreclr
 corefx

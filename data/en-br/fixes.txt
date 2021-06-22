@@ -21,6 +21,10 @@ maneouvring: manoeuvring
 manoeuverability: manoeuvrability
 manoeuvering: manoeuvring
 mispelt: misspelt
+monetize: monetise
+monetized: monetised
+monetizes: monetises
+monetizing: monetising
 neigbourhood: neighbourhood
 parenthised: parenthesised
 serialier: serialiser

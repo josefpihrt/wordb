@@ -1619,6 +1619,7 @@ analogies
 analogous
 analogously
 analogy
+analyses
 analysis
 analyst
 analysts
@@ -33951,6 +33952,7 @@ perform
 performable
 performance
 performances
+performant
 performed
 performer
 performers
@@ -35477,6 +35479,8 @@ practical
 practicalities
 practicality
 practically
+practice
+practices
 practitioner
 practitioners
 praetorian

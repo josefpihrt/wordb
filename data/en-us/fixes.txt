@@ -66,6 +66,10 @@ manouverability: maneuverability
 manouverable: maneuverable
 manouvers: maneuvers
 metter: meter
+monetise: monetize
+monetised: monetized
+monetises: monetizes
+monetising: monetizing
 neigbor: neighbor
 neigborhood: neighborhood
 neigbors: neighbors

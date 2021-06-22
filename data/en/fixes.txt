@@ -64,6 +64,7 @@ accordeon: accordion
 accordign: according
 accordinly: accordingly
 accoustic: acoustic
+accout: account
 accros: across
 accross: across
 accumlated: accumulated
@@ -245,6 +246,7 @@ alphanumberic: alphanumeric
 alread: already
 alterative: alternative
 alternativ: alternative
+alternativaly: alternatively
 althought: although
 amatuer: amateur
 ambigious: ambiguous
@@ -362,6 +364,7 @@ arangement: arrangement
 arangements: arrangements
 arbitarily: arbitrarily
 arbitary: arbitrary
+arbitraty: arbitrary
 archaelogical: archaeological
 archaelogists: archaeologists
 archaelogy: archaeology
@@ -390,6 +393,7 @@ arrang: arrange
 arrangment: arrangement
 arrangments: arrangements
 arround: around
+artbitrary: arbitrary
 artifical: artificial
 artifically: artificially
 artificialy: artificially
@@ -1681,6 +1685,7 @@ Farenheit: Fahrenheit
 feromone: pheromone
 feromones: pheromones
 fetchs: fetches
+Fibonaci: Fibonacci
 fictious: fictitious
 fiercly: fiercely
 filetered: filtered
@@ -2481,6 +2486,7 @@ ommision: omission
 ommit: omit
 ommited: omitted
 ommitted: omitted
+ommitting: omitting
 omnicron: omicron
 opeartion: operation
 opeator: operator
@@ -2593,6 +2599,7 @@ parenthethis: parenthesis
 paritioning: partitioning
 parliment: parliament
 parmeter: parameter
+parmeters: parameters
 parrent: parent
 particlar: particular
 particpate: participate
@@ -3561,7 +3568,6 @@ uper: upper
 upholstry: upholstery
 uppper: upper
 uresolved: unresolved
-useable: usable
 usefull: useful
 usefuly: usefully
 userdefined: user-defined
