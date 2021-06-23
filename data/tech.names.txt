@@ -35,6 +35,7 @@ CoffeeScript
 Commitizen
 CommonJS
 ConEmu
+Couchbase
 CSharp
 CSS
 Cygwin

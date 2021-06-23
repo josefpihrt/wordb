@@ -59,6 +59,7 @@ dbo
 ddl
 ddos
 ddr
+dgml
 dhcp
 dkim
 dll
@@ -203,6 +204,7 @@ msie
 msil
 msl
 msmq
+msrc
 mssql
 msvc
 mta
@@ -385,6 +387,7 @@ wwan
 www
 xdg
 xdmcp
+xdt
 xhr
 xliff
 xmlns

@@ -10762,6 +10762,8 @@ coy
 coyly
 coyote
 coyotes
+coypu
+coypus
 cozier
 coziness
 crab
@@ -20278,6 +20280,8 @@ gibbon
 gibbons
 gibe
 gibes
+gibibyte
+gibibytes
 giblets
 giddiness
 giddy
@@ -26215,6 +26219,8 @@ kiang
 kibble
 kibbutz
 kibbutzim
+kibibyte
+kibibytes
 kibosh
 kick
 kickback
@@ -28804,6 +28810,8 @@ meatless
 meatloaf
 meats
 meaty
+mebibyte
+mebibytes
 mechanic
 mechanical
 mechanically
@@ -46958,6 +46966,8 @@ teaspoon
 teaspoons
 teat
 teats
+tebibyte
+tebibytes
 tech
 techie
 techies
@@ -48000,6 +48010,8 @@ toolmakers
 tools
 toolset
 toolsets
+tooltip
+tooltips
 toot
 tooth
 toothache

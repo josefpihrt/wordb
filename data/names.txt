@@ -493,6 +493,7 @@ Schumpeter
 Scribd
 Segoe
 Semtex
+SendGrid
 Shakespeare
 SharePoint
 Shopify
@@ -545,6 +546,7 @@ Toshiba
 Toyota
 Trebuchet MS
 Trello
+TripAdvisor
 Trivago
 Tupperware
 Turing

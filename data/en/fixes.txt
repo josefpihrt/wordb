@@ -136,7 +136,6 @@ addressibility: addressability
 addtion: addition
 addtional: additional
 adherance: adherence
-adhoc: ad hoc
 aditional: additional
 aditionally: additionally
 adjecent: adjacent
@@ -1314,6 +1313,7 @@ develope: developed
 developement: development
 diagional: diagonal
 diagnotics: diagnostics
+diagonostic: diagnostic
 diagonstic: diagnostic
 dialgo: dialog
 diappear: disappear
@@ -2140,6 +2140,7 @@ interchage: interchange
 interesction: intersection
 interferred: interfered
 interferring: interfering
+intergrate: integrate
 intergrated: integrated
 intergration: integration
 internall: internal
@@ -2951,6 +2952,7 @@ religous: religious
 rellocate: reallocate
 rellocate: relocate
 remaininig: remaining
+remaning: remaining
 rememebr: remember
 remmeber: remember
 removeable: removable
