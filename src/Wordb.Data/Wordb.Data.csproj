@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="en\" />
+    <Folder Include="en-br\" />
+    <Folder Include="en-us\" />
+    <Folder Include="other\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="..\..\data\acronyms.txt" Link="acronyms.txt" />
+    <Content Include="..\..\data\names.txt" Link="names.txt" />
+    <Content Include="..\..\data\tech.acronyms.txt" Link="tech.acronyms.txt" />
+    <Content Include="..\..\data\tech.names.txt" Link="tech.names.txt" />
+    <Content Include="..\..\data\en\fixes.txt" Link="en\fixes.txt" />
+    <Content Include="..\..\data\en\geography.txt" Link="en\geography.txt" />
+    <Content Include="..\..\data\en\main.txt" Link="en\main.txt" />
+    <Content Include="..\..\data\en\names.txt" Link="en\names.txt" />
+    <Content Include="..\..\data\en\tech.abbreviations.txt" Link="en\tech.abbreviations.txt" />
+    <Content Include="..\..\data\en\tech.txt" Link="en\tech.txt" />
+    <Content Include="..\..\data\en-br\fixes.txt" Link="en-br\fixes.txt" />
+    <Content Include="..\..\data\en-br\fixes.us_to_br.txt" Link="en-br\fixes.us_to_br.txt" />
+    <Content Include="..\..\data\en-br\main.txt" Link="en-br\main.txt" />
+    <Content Include="..\..\data\en-br\tech.txt" Link="en-br\tech.txt" />
+    <Content Include="..\..\data\en-us\fixes.br_to_us.txt" Link="en-us\fixes.br_to_us.txt" />
+    <Content Include="..\..\data\en-us\fixes.txt" Link="en-us\fixes.txt" />
+    <Content Include="..\..\data\en-us\main.txt" Link="en-us\main.txt" />
+    <Content Include="..\..\data\en-us\tech.txt" Link="en-us\tech.txt" />
+    <Content Include="..\..\data.other\cil_instructions.txt" Link="other\cil_instructions.txt" />
+    <Content Include="..\..\data.other\colors.txt" Link="other\colors.txt" />
+    <Content Include="..\..\data.other\names.txt" Link="other\names.txt" />
+    <Content Include="..\..\data.other\tech.file_extensions.txt" Link="other\tech.file_extensions.txt" />
+    <Content Include="..\..\data.other\tech.html_tags.txt" Link="other\tech.html_tags.txt" />
+    <Content Include="..\..\data.other\tech.other.txt" Link="other\tech.other.txt" />
+  </ItemGroup>
+
+</Project>
