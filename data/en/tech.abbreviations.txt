@@ -7,6 +7,8 @@ arr
 asc
 asm
 attr
+attrib
+attribs
 attrs
 btn
 buf
@@ -67,6 +69,7 @@ lbl
 len
 mod
 msg
+msgs
 num
 obj
 orig

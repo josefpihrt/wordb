@@ -1037,6 +1037,8 @@ telnet
 templating
 thresholding
 throwable
+thunk
+thunks
 tiering
 timecode
 timecodes

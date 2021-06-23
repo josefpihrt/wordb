@@ -691,7 +691,6 @@ cartrige: cartridge
 cartriges: cartridges
 casette: cassette
 casettes: cassettes
-casted: cast
 catagories: categories
 catched: caught
 catepillar: caterpillar
@@ -1697,6 +1696,7 @@ financialy: financially
 finanical: financial
 finitenes: finiteness
 finsh: finish
+finshed: finished
 fisrt: first
 fitler: filter
 fixs: fixes
@@ -2398,6 +2398,7 @@ mutliple: multiple
 mysogynist: misogynist
 mysogyny: misogyny
 nagative: negative
+namepace: namespace
 namesapce: namespace
 namming: naming
 nanosecons: nanosecond
@@ -2525,6 +2526,7 @@ orientaton: orientation
 originale: original
 originale: originals
 originaly: originally
+originiate: originate
 originiating: originating
 orignal: original
 orignial: original
@@ -3563,6 +3565,7 @@ unsuprising: unsurprising
 unsuprisingly: unsurprisingly
 untill: until
 unwinded: unwound
+unwraped: unwrapped
 unwrappered: unwrapped
 upcomming: upcoming
 uper: super
@@ -3610,6 +3613,7 @@ viceversa: vice versa
 viemwodel: viewmodel
 viemwodels: viewmodels
 vigourous: vigorous
+villian: villain
 villification: vilification
 villify: vilify
 visability: visibility

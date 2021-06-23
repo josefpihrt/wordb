@@ -101,6 +101,7 @@ Jira
 jQuery
 JSFiddle
 JSON
+JUnit
 KDiff
 Kentico
 Kibana
@@ -131,6 +132,7 @@ MSBuild
 MSTest
 MyGet
 MySql
+Nerdbank
 Netscape
 Nette
 Newtonsoft
