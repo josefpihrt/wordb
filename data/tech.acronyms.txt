@@ -4,6 +4,7 @@ ado
 adpcm
 adsl
 aes
+aix
 ajax
 amqp
 amqps

@@ -85,6 +85,7 @@ Haskell
 Hastlayer
 HSQLDB
 HTML
+IBM
 ICSharpCode
 Informix
 IntelliJ
@@ -130,6 +131,7 @@ MoonScript
 Moq
 MSBuild
 MSTest
+MuleSoft
 MyGet
 MySql
 Nerdbank
