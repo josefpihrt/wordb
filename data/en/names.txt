@@ -263,6 +263,7 @@ Edith
 Edmund
 Edward
 Edwin
+Elaine
 Eleanor
 Elias
 Elijah
@@ -369,6 +370,7 @@ Henry
 Herakles
 Herbert
 Hercules
+Hilda
 Hippocrates
 Holly
 Horatio
@@ -737,6 +739,7 @@ Shaun
 Shawn
 Shawna
 Sheena
+Sheila
 Sheryl
 Shirley
 Sidney
@@ -745,6 +748,7 @@ Simon
 Simone
 Skylar
 Socrates
+Solomon
 Sophia
 Sophie
 Spartacus

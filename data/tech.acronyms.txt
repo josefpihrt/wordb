@@ -338,6 +338,7 @@ tfvc
 tld
 tls
 tmpfs
+tpl
 tpm
 tsc
 tsql
