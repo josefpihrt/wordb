@@ -12,11 +12,14 @@ namespace Wordb
     {
         public static void Main(string[] args)
         {
-            foreach (string filePath in Directory.EnumerateFiles(@"..\..\..\..\..\data", "*.txt", SearchOption.AllDirectories))
-                Normalize(filePath);
-
-            foreach (string filePath in Directory.EnumerateFiles(@"..\..\..\..\..\data.other", "*.txt", SearchOption.AllDirectories))
-                Normalize(filePath);
+#if DEBUG
+            args = new[] { @"..\..\..\..\..\data", @"..\..\..\..\..\data.other" };
+#endif
+            foreach (string arg in args)
+            {
+                foreach (string filePath in Directory.EnumerateFiles(arg, "*.txt", SearchOption.AllDirectories))
+                    Normalize(filePath);
+            }
         }
 
         private static void Normalize(string path)
