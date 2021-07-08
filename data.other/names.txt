@@ -1,6 +1,7 @@
 ﻿Abdallah
 Abdul
 Abdullah
+Adriana
 Adrien
 Adrienne
 Ahmad
@@ -42,8 +43,11 @@ Armando
 Artem
 Aslan
 Ayesha
+Björn
 Blanca
 Blanka
+Bojan
+Bojana
 Brigitte
 Bruno
 Carlo
@@ -68,6 +72,7 @@ Dinesh
 Dmitriy
 Dmitry
 Dolores
+Domenico
 Dominik
 Dominika
 Dominique
@@ -124,6 +129,7 @@ Guido
 Guilherme
 Guillaume
 Guillermo
+Gustav
 Gustavo
 Habib
 Habiba
@@ -150,6 +156,7 @@ Isabelle
 Ismail
 Ivan
 Ivana
+Jáchym
 Jacques
 Jakob
 Jakub
@@ -157,13 +164,16 @@ Jamila
 Jan
 Jana
 Janis
+Jannis
 Janusz
+Jarmila
 Jaroslav
 Jaroslava
 Javier
 Jens
 Jiří
 Jiřina
+Joachim
 Joaquim
 Joerg
 Johannes
@@ -250,11 +260,14 @@ Marta
 Masahiro
 Masako
 Massimiliano
+Matěj
 Mateusz
 Matteo
+Matthias
 Matthijs
 Matyáš
 Maximilian
+Medard
 Mehmet
 Michaela
 Michal
@@ -323,6 +336,7 @@ Regina
 Reinhardt
 René
 Ricardo
+Rigoberto
 Ringo
 Roberto
 Rodrigo
@@ -367,6 +381,7 @@ Teodora
 Tereza
 Therese
 Thierry
+Thomas
 Tibor
 Tomas
 Tomáš
@@ -383,6 +398,7 @@ Vladimír
 Volodymyr
 Vyacheslav
 Wilhelm
+Wojciech
 Wolfgang
 Xenia
 Yannick

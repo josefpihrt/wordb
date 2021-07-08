@@ -1216,6 +1216,7 @@ algae
 algal
 algebra
 algebraic
+algebraically
 algorithm
 algorithmic
 algorithmically
@@ -10298,7 +10299,9 @@ copping
 copra
 coprocessor
 coprocessors
+coproduct
 coproduction
+coproducts
 cops
 copses
 copulate
@@ -30129,6 +30132,7 @@ morph
 morphed
 morphine
 morphing
+morphism
 morphologic
 morphological
 morphologically

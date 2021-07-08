@@ -530,6 +530,7 @@ auxuliary: auxiliary
 avaiable: available
 avaialbe: available
 avaialble: available
+availabile: available
 availabilites: availabilities
 availabilty: availability
 availablility: availability

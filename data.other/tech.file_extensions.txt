@@ -87,6 +87,7 @@ swf
 tgz
 tsv
 ttf
+ttinclude
 txt
 vb
 vbhthml
