@@ -641,6 +641,7 @@ adhesives
 adieu
 adios
 adipose
+adj
 adjacence
 adjacences
 adjacencies
@@ -8266,6 +8267,8 @@ cleverest
 cleverly
 cleverness
 clews
+cliché
+clichés
 click
 clickable
 clicked
@@ -25652,6 +25655,7 @@ isolators
 isomer
 isomers
 isometric
+isomorphic
 isomorphism
 isosceles
 isotonic
@@ -29179,6 +29183,7 @@ mezzanine
 mezzo
 mi
 miasma
+mic
 mica
 mice
 micro
@@ -31164,6 +31169,7 @@ nitroglycerin
 nitroglycerine
 nitrous
 nits
+nitty-gritty
 nitwit
 nitwits
 nix
@@ -31707,6 +31713,7 @@ obscuring
 obscurities
 obscurity
 obsequious
+observability
 observable
 observance
 observances
@@ -46057,6 +46064,8 @@ supersonic
 supersonically
 superstar
 superstars
+superstate
+superstates
 superstition
 superstitions
 superstitious
@@ -48438,6 +48447,7 @@ translators
 transliterate
 transliterated
 transliterates
+transliterating
 transliteration
 transliterations
 translucency

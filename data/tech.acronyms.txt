@@ -198,8 +198,10 @@ mime
 mips
 mpeg
 mpls
+mqtt
 mru
 msde
+msdi
 msdn
 msdos
 msdtc
@@ -282,6 +284,7 @@ rrggbb
 rsa
 rsassa
 rss
+rssdp
 rtf
 rtl
 rtm
@@ -304,6 +307,7 @@ sftp
 sfx
 sgml
 sha
+shfb
 sid
 sloc
 smime
@@ -332,6 +336,7 @@ svg
 svga
 tcp
 tcpip
+tdd
 tfm
 tfms
 tfs

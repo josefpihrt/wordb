@@ -107,6 +107,8 @@ awaiters
 backcompat
 backcompatibility
 backends
+backplane
+backplanes
 backport
 backported
 backporting
@@ -1189,6 +1191,7 @@ voxels
 webhook
 webhooks
 webmention
+webpack
 webserver
 webservers
 worktree

@@ -39,6 +39,7 @@ Antónia
 Antonio
 António
 Anwar
+Ariel
 Armando
 Artem
 Aslan
@@ -48,6 +49,7 @@ Blanca
 Blanka
 Bojan
 Bojana
+Břetislav
 Brigitte
 Bruno
 Carlo
@@ -117,6 +119,7 @@ Gabriele
 Galina
 Gerardo
 Gerhard
+Gianni
 Giannis
 Gilberto
 Giorgi
@@ -129,6 +132,7 @@ Guido
 Guilherme
 Guillaume
 Guillermo
+Günther
 Gustav
 Gustavo
 Habib
@@ -143,6 +147,7 @@ Helena
 Helga
 Helmut
 Hendrik
+Henrik
 Hiroshi
 Horst
 Hossein
@@ -150,6 +155,7 @@ Hussein
 Ibrahim
 Ignacio
 Igor
+Ilya
 Imran
 Irina
 Isabelle
@@ -176,6 +182,7 @@ Jiřina
 Joachim
 Joaquim
 Joerg
+Johanna
 Johannes
 Jonathon
 Jordi
@@ -217,6 +224,7 @@ Kristián
 Kristina
 Krzysztof
 Kseniya
+Ladislav
 Lakshmi
 Lalita
 Laurent
@@ -240,6 +248,7 @@ Maksim
 Manfred
 Manish
 Manuela
+Marcel
 Marcela
 Marcello
 Marcelo
@@ -302,6 +311,7 @@ Oleg
 Oleksandr
 Olga
 Olivier
+Ondřej
 Oskar
 Otakar
 Pablo
@@ -395,6 +405,7 @@ Vitalij
 Vitaly
 Vladimir
 Vladimír
+Vladislav
 Volodymyr
 Vyacheslav
 Wilhelm

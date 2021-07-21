@@ -18,6 +18,7 @@ AutoMapper
 Automatonymous
 Autopatcher
 Bitbucket
+BitLocker
 Blazor
 Brainfuck
 Brotli
@@ -97,6 +98,7 @@ ISAPI
 Java
 JavaScript
 JBoss
+Jellyfin
 JetBrains
 Jira
 jQuery
@@ -189,6 +191,7 @@ Redux
 ReSharper
 Restream
 Roboconf
+Robocopy
 RoboHash
 Ruby
 Rust
@@ -203,6 +206,8 @@ Serilog
 SignalR
 Silverlight
 Smalltalk
+SonarCloud
+SonarQube
 SourceForge
 Sourcetree
 Splunk
@@ -218,6 +223,7 @@ Sysdig
 Taskify
 TeamCity
 Telerik
+TensorFlow
 TeX
 TortoiseMerge
 TSLint
@@ -247,4 +253,5 @@ XSL
 xUnit
 YAML
 YouTrack
+Zipkin
 Zlib

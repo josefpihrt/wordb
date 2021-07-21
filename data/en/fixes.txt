@@ -78,6 +78,7 @@ accussed: accused
 acess: access
 acessable: accessible
 acessible: accessible
+acessor: accessor
 acheive: achieve
 acheived: achieved
 acheivement: achievement
@@ -716,6 +717,7 @@ certainity: certainty
 certficate: certificate
 certficates: certificates
 certfication: certification
+certian: certain
 certifcate: certificate
 certificiate: certificate
 chalenging: challenging
@@ -858,6 +860,7 @@ commmon: common
 communcation: communication
 comoponents: components
 comoponet: component
+compability: compatibility
 compabitility: compatibility
 compadibility: compatibility
 comparaisons: comparisons
@@ -930,6 +933,7 @@ concieved: conceived
 concious: conscious
 concreate: concrete
 concurency: concurrency
+concurent: concurrent
 concurently: concurrently
 concurrecy: concurrency
 conditionaly: conditionally
@@ -1247,6 +1251,7 @@ delievered: delivered
 delimeted: delimited
 delimeter: delimiter
 delimitered: delimited
+demonstated: demonstrated
 demostration: demonstration
 demysifier: demystifier
 denegrating: denigrating
@@ -1413,6 +1418,7 @@ distrubuted: distributed
 disucss: discuss
 docuemnt: document
 documen: document
+documenation: documentation
 documentnation: documentation
 documetation: documentation
 documment: document
@@ -1510,6 +1516,7 @@ enforeced: enforced
 enlargment: enlargement
 enlargments: enlargements
 enoough: enough
+enrollement: enrollment
 enrolment: enrollment
 enrolments: enrollments
 enroute: en route
@@ -1686,6 +1693,7 @@ feromone: pheromone
 feromones: pheromones
 fetchs: fetches
 Fibonaci: Fibonacci
+Fibonnacci: Fibonacci
 fictious: fictitious
 fiercly: fiercely
 filetered: filtered
@@ -1891,6 +1899,8 @@ highights: highlights
 highlevel: high-level
 highligher: highlighter
 hight: height
+hightlight: highlight
+higlight: highlight
 higlighted: highlighted
 higlighting: highlighting
 hillarious: hilarious
@@ -2415,6 +2425,7 @@ necesary: necessary
 necessery: necessary
 neeeded: needed
 negitive: negative
+negotation: negotiation
 nessesary: necessary
 nonascii: non-ascii
 nonclusterd: nonclustered
@@ -2859,6 +2870,7 @@ quering: querying
 questionaire: questionnaire
 questionnair: questionnaire
 queueus: queues
+rabbbit: rabbit
 ralative: relative
 randomzier: randomizer
 reachablility: reachability
@@ -2869,7 +2881,6 @@ realocate: reallocate
 realocated: reallocated
 realocates: reallocates
 realocating: reallocating
-realtime: real-time
 realy: really
 reasearch: research
 reasonbly: reasonably
@@ -3064,6 +3075,7 @@ rolledback: rollbacked
 rolledback: rolled back
 rollsback: rolls back
 roomate: roommate
+Rosyln: Roslyn
 roundhous: roundhouse
 roundrobin: round-robin
 rount: round
@@ -3411,7 +3423,6 @@ teriminal: terminal
 ternarary: ternary
 terrestial: terrestrial
 terriffic: terrific
-thats: that's
 thereafeter: thereafter
 therefor: therefore
 therfore: therefore
@@ -3624,6 +3635,8 @@ visibilites: visibilities
 visibilty: visibility
 visiblity: visibility
 vitrually: virtually
+vulnerablities: vulnerabilities
+vulnerablity: vulnerability
 wanring: warning
 wasnt: wasn't
 watermeloon: watermelon

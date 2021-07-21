@@ -241,6 +241,7 @@ Botswana
 Botswanan
 Boulogne
 Bournemouth
+Brandenburg
 Brasília
 Bratislava
 Brazil
@@ -403,6 +404,7 @@ Curaçaoan
 Curaçaoans
 Curitiba
 Cuzco
+Cymru
 Cypriot
 Cypriots
 Cyprus
@@ -549,6 +551,8 @@ Gabonese
 Gaborone
 Galápagos
 Galicia
+Galician
+Galicians
 Gambia
 Gambian
 Gambians

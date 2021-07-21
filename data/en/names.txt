@@ -82,6 +82,7 @@ Ava
 Azazel
 Barbara
 Baron
+Barry
 Bartholomew
 Beatrice
 Beatrix
@@ -161,6 +162,7 @@ Cheryl
 Chester
 Chiara
 Chloe
+Chloë
 Chris
 Christian
 Christina
@@ -337,6 +339,7 @@ Glenn
 Gloria
 Gollum
 Gorbachev
+Gordon
 Grace
 Graeme
 Graham
