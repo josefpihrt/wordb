@@ -104,6 +104,7 @@ Federico
 Feliciano
 Felipe
 Fernando
+Florian
 Francesca
 Francesco
 Francisca
@@ -234,6 +235,7 @@ Liliana
 Luciano
 Lucien
 Ludmila
+Ludovico
 Luigi
 Luis
 Luís
@@ -331,6 +333,7 @@ Pierre
 Pietro
 Piotr
 Priyanka
+Radmila
 Rafael
 Raffaello
 Raimundo
@@ -390,6 +393,7 @@ Teodor
 Teodora
 Tereza
 Therese
+Thiago
 Thierry
 Thomas
 Tibor
@@ -420,3 +424,4 @@ Yolanda
 Yousef
 Yusuf
 Yusuke
+Zuzana
