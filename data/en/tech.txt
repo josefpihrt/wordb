@@ -249,6 +249,7 @@ configurators
 connectivities
 const
 consts
+containerization
 containerless
 cookieless
 coprocessor
@@ -438,6 +439,7 @@ funcs
 fuzzification
 gameplay
 gc'd
+genericity
 gettability
 getter
 gif
@@ -484,6 +486,8 @@ hotfixes
 hotkey
 hotkeys
 HRESULT
+hyperparameter
+hyperparameters
 hypertext
 hyphenator
 identicon
@@ -542,6 +546,8 @@ keyframe
 keyframes
 keygen
 keygens
+keylogger
+keyloggers
 keypress
 keypresses
 keyset
@@ -633,6 +639,7 @@ multibyte
 multicast
 multicasted
 multicore
+multifactor
 multimap
 multimapping
 multimappings
@@ -948,6 +955,7 @@ snippetizing
 softlinked
 sortable
 spec
+statefulness
 stdio
 stringifiable
 stringification

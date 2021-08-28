@@ -57,6 +57,7 @@ anglicize
 anglicized
 anglicizes
 anglicizing
+anonymization
 anonymize
 anonymized
 anonymizer

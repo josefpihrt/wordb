@@ -54,6 +54,7 @@ anglicise
 anglicised
 anglicises
 anglicising
+anonymisation
 anonymise
 anonymised
 anonymiser

@@ -75,6 +75,7 @@ msft
 mvp
 nfc
 nist
+ntb
 ntsc
 nyse
 oled
