@@ -63,6 +63,7 @@ Constantinos
 Cristian
 Cristiano
 Cristina
+Dalibor
 Daniela
 Daria
 Dario
@@ -91,6 +92,7 @@ Elvira
 Enrique
 Enzo
 Ephraim
+Erich
 Erika
 Ernesto
 Etienne
@@ -104,6 +106,7 @@ Federico
 Feliciano
 Felipe
 Fernando
+Filip
 Florian
 Francesca
 Francesco
@@ -163,6 +166,7 @@ Isabelle
 Ismail
 Ivan
 Ivana
+Iveta
 Jáchym
 Jacques
 Jakob
@@ -180,6 +184,7 @@ Javier
 Jens
 Jiří
 Jiřina
+Jirka
 Joachim
 Joaquim
 Joerg
@@ -202,9 +207,11 @@ Juliana
 Julien
 Julio
 Julius
+Juraj
 Kamala
 Kamil
 Kamila
+Karel
 Karim
 Karina
 Karl
@@ -265,6 +272,7 @@ Mariana
 Mario
 Marius
 Mariusz
+Markéta
 Markus
 Marlene
 Marta
@@ -277,6 +285,7 @@ Matteo
 Matthias
 Matthijs
 Matyáš
+Matylda
 Maximilian
 Medard
 Mehmet
@@ -306,6 +315,7 @@ Nestor
 Nguyen
 Nikita
 Niklas
+Nikola
 Nikolai
 Nikolay
 Oksana
@@ -313,6 +323,7 @@ Oleg
 Oleksandr
 Olga
 Olivier
+Ondra
 Ondřej
 Oskar
 Otakar
@@ -376,6 +387,7 @@ Stanislav
 Stanislava
 Stefan
 Štefan
+Štěpán
 Stephan
 Stephen
 Svetlana
@@ -400,6 +412,7 @@ Tibor
 Tomas
 Tomáš
 Ursula
+Václav
 Vadim
 Valentina
 Viktor

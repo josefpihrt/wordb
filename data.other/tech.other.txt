@@ -48,6 +48,7 @@ ipsum
 jarray
 jobject
 jtoken
+kubeconfig
 laquo
 ldquo
 libcurl
@@ -88,6 +89,7 @@ paramref
 printf
 psz
 pwsh
+pyodbc
 quot
 raquo
 rcpt
@@ -108,6 +110,7 @@ stdafx
 stddev
 stderr
 stdin
+stdlib
 stdout
 strcmp
 strcpy

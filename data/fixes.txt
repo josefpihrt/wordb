@@ -1,0 +1,4 @@
+﻿Fibonaci: Fibonacci
+Fibonnacci: Fibonacci
+Kuberenetes: Kubernetes
+Rosyln: Roslyn
