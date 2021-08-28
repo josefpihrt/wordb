@@ -1,5 +1,4 @@
 ﻿aac
-adoc
 agp
 aifc
 aiff
@@ -42,7 +41,6 @@ jpg
 js
 jsonl
 jsx
-kdbx
 lnk
 lsp
 mdb
@@ -64,7 +62,6 @@ ogg
 ogv
 pdb
 pdf
-pem
 pfx
 pkg
 pkgdef

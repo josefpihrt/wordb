@@ -169,7 +169,6 @@ afectted: affected
 afficionado: aficionado
 afficionados: aficionados
 affilliate: affiliate
-affraid: afraid
 aforementionned: aforementioned
 aformentioned: aforementioned
 agains: again
@@ -191,9 +190,6 @@ agreeement: agreement
 agregate: aggregate
 agregates: aggregates
 agreggate: aggregate
-agreggated: aggregated
-agreggates: aggregates
-agreggating: aggregating
 agression: aggression
 agressive: aggressive
 agressively: aggressively
@@ -264,7 +260,6 @@ ammendment: amendment
 ammendments: amendments
 ammends: amends
 ammount: amount
-ammounts: amounts
 amoung: among
 amout: amount
 amperstand: ampersand
@@ -322,7 +317,6 @@ appeareance: appearance
 appeareances: appearances
 appearence: appearance
 appearences: appearances
-appenix: appendix
 apperance: appearance
 appereance: appearance
 appereances: appearances
@@ -409,7 +403,6 @@ arugment: argument
 arugments: arguments
 ascymmetric: asymmetric
 asert: assert
-asigned: assigned
 asnwer: answer
 asociated: associated
 asociating: associating
@@ -513,7 +506,6 @@ autentication: authentication
 authenticaton: authentication
 authenticaton: authenticator
 authentification: authentication
-autheticating: authenticating
 authetication: authentication
 authnticated: authenticated
 authobiographic: autobiographic
@@ -610,6 +602,7 @@ bidning: binding
 bigeer: bigger
 bilateraly: bilaterally
 billingualism: bilingualism
+binded: bound
 bindin: binding
 bitvise: bitwise
 bizare: bizarre
@@ -895,7 +888,6 @@ compatilibity: compatibility
 comperer: comparer
 competiveness: competitiveness
 compisite: composite
-completition: completion
 completly: completely
 completness: completeness
 complexd: complex
@@ -921,7 +913,6 @@ compressio: compression
 compresss: compresses
 compresssion: compression
 compulsary: compulsory
-computional: computational
 comunicate: communicate
 comunicating: communicating
 comunity: community
@@ -936,7 +927,6 @@ concatentation: concatenation
 concatentations: concatenations
 conceed: concede
 concensus: consensus
-conceptualy: conceptually
 concerete: concrete
 concievably: conceivably
 concieved: conceived
@@ -1175,7 +1165,6 @@ currenly: currently
 currenty: currently
 curreny: currency
 curreny: current
-currnet: current
 custm: custom
 custon: custom
 Cyrilic: Cyrillic
@@ -1204,9 +1193,7 @@ declaratoins: declarations
 declaraton: declaration
 declaraton: declarator
 declration: declaration
-decomission: decommission
 decomissioned: decommissioned
-decommision: decommission
 decompres: decompress
 decompresed: decompressed
 decompreses: decompresses
@@ -1245,7 +1232,6 @@ defiend: defined
 definately: definitely
 definations: definitions
 definied: defined
-definining: defining
 definit: definite
 definitly: definitely
 definiton: definition
@@ -1310,7 +1296,6 @@ descripton: descriptor
 descriptpr: descriptor
 descrition: description
 desending: descending
-desing: design
 desintegrated: disintegrated
 desintegration: disintegration
 desireable: desirable
@@ -1445,15 +1430,11 @@ donwload: download
 donwloaded: downloaded
 donwloading: downloading
 donwloads: downloads
-dowloading: downloading
-drived: driven
-drived: drove
 drunkeness: drunkenness
 dumbell: dumbbell
 duplciated: duplicated
 duplicit: duplicate
 duplicit: duplicity
-duplicities: duplicates
 durring: during
 dyanmic: dynamic
 dynamicaly: dynamically
@@ -1463,8 +1444,6 @@ ecclectic: eclectic
 ecnoded: encoded
 ecrypting: encrypting
 ecryption: encryption
-efect: effect
-efects: effects
 effecient: efficient
 effeciently: efficiently
 effekt: effect
@@ -1560,7 +1539,6 @@ enumerater: enumerator
 enumeratoin: enumeration
 enumertated: enumerated
 enumreable: enumerable
-envinronment: environment
 envionment: environment
 envionrment: environment
 enviornment: environment
@@ -1714,6 +1692,8 @@ Farenheit: Fahrenheit
 feromone: pheromone
 feromones: pheromones
 fetchs: fetches
+Fibonaci: Fibonacci
+Fibonnacci: Fibonacci
 fictious: fictitious
 fiercly: fiercely
 filetered: filtered
@@ -1751,7 +1731,6 @@ follwoing: following
 folowing: following
 folows: follows
 fonetic: phonetic
-fontend: frontend
 forbidd: forbid
 forbiden: forbidden
 forcast: forecast
@@ -1849,13 +1828,11 @@ gohper: gopher
 gooses: geese
 gracefull: graceful
 gradiant: gradient
-gradualy: gradually
 gramatical: grammatical
 gramatically: grammatically
 grammaticaly: grammatically
 granchild: grandchild
 granchildren: grandchildren
-granurality: granularity
 gratefull: grateful
 greather: greater
 Gregarian: Gregorian
@@ -2016,8 +1993,6 @@ impossibe: impossible
 impratical: impractical
 impressario: impresario
 impromput: impromptu
-improvemnt: improvement
-improvemnts: improvements
 imtermediate: intermediate
 inaccesible: inaccessible
 inaccessable: inaccessible
@@ -2035,7 +2010,6 @@ inbetween: in-between
 incensitive: insensitive
 incidently: incidentally
 incluing: including
-incomming: incoming
 incompability: incompatibility
 incompatabilities: incompatibilities
 incompatability: incompatibility
@@ -2051,7 +2025,6 @@ incorectly: incorrectly
 incorrent: incorrect
 increement: increment
 incrememted: incremented
-incrementaly: incrementally
 incrementel: incremental
 incrementel: incremented
 incremnent: increment
@@ -2081,7 +2054,6 @@ indispensible: indispensable
 indivdual: individual
 indxer: indexer
 inefficency: inefficiency
-inefficent: inefficient
 ineqaulity: inequality
 inequal: unequal
 inerface: interface
@@ -2146,8 +2118,6 @@ inserterd: inserter
 inserton: insertion
 insignias: insignia
 instace: instance
-instal: install
-instalation: installation
 instanatiates: instantiates
 instanciate: instantiate
 instanciated: instantiated
@@ -2169,7 +2139,7 @@ inteface: interface
 intefaces: interfaces
 integation: integration
 integeration: integration
-integraded: integrated
+Integraded: integrated
 intelectual: intellectual
 inteligence: intelligence
 inteligent: intelligent
@@ -2245,7 +2215,6 @@ lamdba: lambda
 langauge: language
 languge: language
 laoding: loading
-largerly: largely
 lastest: last
 latitute: latitude
 layed: laid
@@ -2300,7 +2269,6 @@ manaully: manually
 manfiest: manifest
 mangement: management
 manifacturer: manufacturer
-manualy: manually
 manupulators: manipulators
 mappin: mapping
 mappping: mapping
@@ -2326,7 +2294,6 @@ mehtod: method
 memeber: member
 memebers: members
 memebrs: members
-memmory: memory
 merchantablity: merchantability
 Mersanne: Mersenne
 mesage: message
@@ -2648,7 +2615,6 @@ paritioning: partitioning
 parliment: parliament
 parmeter: parameter
 parmeters: parameters
-parralel: parallel
 parrent: parent
 particlar: particular
 particpate: participate
@@ -2657,8 +2623,6 @@ partitoning: partitioning
 pased: passed
 passprase: passphrase
 passsword: password
-pasword: password
-paswords: passwords
 patern: pattern
 pathalogical: pathological
 pathes: paths
@@ -2722,10 +2686,8 @@ plaform: platform
 plantiff: plaintiff
 plantiffs: plaintiffs
 platfor: platform
-ploting: plotting
 ploymorphic: polymorphic
 poeple: people
-poisioning: poisoning
 poisition: position
 polimorphic: polymorphic
 polinator: pollinator
@@ -2756,7 +2718,6 @@ possesion: possession
 possibilites: possibilities
 possibl: possible
 possibl: possibly
-possiblities: possibilities
 possiblity: possibility
 postgress: postgres
 postion: position
@@ -2767,8 +2728,6 @@ potentailly: potentially
 pourpose: purpose
 powerfull: powerful
 practicaly: practically
-prdictor: predictor
-prdictors: predictors
 precalulated: precalculated
 preced: precede
 precedeed: preceded
@@ -2808,7 +2767,6 @@ prerequsite: prerequisite
 presense: presence
 presneter: presenter
 prespective: perspective
-pressumably: presumably
 prestigeous: prestigious
 prettyfy: prettify
 prettyfying: prettifying
@@ -2830,7 +2788,6 @@ priviledges: privileges
 privilige: privilege
 priviliges: privileges
 probabilisic: probabilistic
-probablity: probability
 probibilistic: probabilistic
 proccesing: processing
 proccesor: processor
@@ -2907,13 +2864,11 @@ qualifer: qualifier
 qualifers: qualifiers
 quarantaine: quarantine
 quarentine: quarantine
-queing: queuing
 quelified: qualified
 queriable: queryable
 quering: querying
 questionaire: questionnaire
 questionnair: questionnaire
-queueu: queue
 queueus: queues
 rabbbit: rabbit
 ralative: relative
@@ -2935,14 +2890,11 @@ reattch: reattach
 reccommend: recommend
 reccuring: recurring
 receieve: receive
-recepies: recipes
 recepit: receipt
 reciept: receipt
 recieve: receive
 recieved: received
 reciever: receiver
-recieves: receives
-recieving: receiving
 recomend: recommend
 recomendation: recommendation
 recomended: recommended
@@ -2959,7 +2911,6 @@ recursivelly: recursively
 recursve: recursive
 recusrive: recursive
 recyclyed: recycled
-redesiging: redesigning
 rednerers: renderers
 redudant: redundant
 redundent: redundant
@@ -2976,7 +2927,6 @@ referening: referencing
 referense: reference
 referernce: reference
 referes: refers
-refereshed: refreshed
 refering: referring
 refernce: reference
 refernces: references
@@ -3106,7 +3056,6 @@ retreived: retrieved
 retreiver: retriever
 retreives: retrieves
 retreiving: retrieving
-retreving: retrieving
 retrive: retrieve
 retrived: retrieved
 retrives: retries
@@ -3125,8 +3074,8 @@ rewriten: rewritten
 rolledback: rollbacked
 rolledback: rolled back
 rollsback: rolls back
-rolout: rollout
 roomate: roommate
+Rosyln: Roslyn
 roundhous: roundhouse
 roundrobin: round-robin
 rount: round
@@ -3150,7 +3099,6 @@ satisifed: satisfied
 satisified: satisfied
 satistied: satisfied
 satistying: satisfying
-scaleable: scalable
 sccessful: successful
 schedue: schedule
 schedular: scheduler
@@ -3179,8 +3127,6 @@ sematics: semantics
 sended: sent
 sensititive: sensitive
 senstivity: sensitivity
-sentance: sentence
-sentances: sentences
 sentinal: sentinel
 separarately: separately
 separatelly: separately
@@ -3236,7 +3182,6 @@ shourtcut: shortcut
 shrinked: shrank
 shrinked: shrunk
 shuold: should
-signes: signs
 signifant: significant
 signifcance: significance
 significand: significant
@@ -3280,7 +3225,6 @@ specifc: specific
 specifcially: specifically
 specifciation: specification
 specifed: specified
-specificaiton: specification
 specificed: specified
 specifiction: specification
 specifieid: specified
@@ -3299,7 +3243,6 @@ sqllite: sqlite
 squence: sequence
 standart: standard
 standrad: standard
-statefull: stateful
 stategy: strategy
 statemenet: statement
 statemenets: statements
@@ -3325,7 +3268,6 @@ strting: starting
 strucure: structure
 strucuture: structure
 stubborness: stubbornness
-stucked: stuck
 subcription: subscription
 subdirectoires: subdirectories
 subdirectores: subdirectories
@@ -3371,7 +3313,6 @@ succesive: successive
 succesor: successor
 successfull: successful
 successfuly: successfully
-successully: successfully
 succintly: succinctly
 suceeded: succeeded
 suceeding: succeeding
@@ -3497,7 +3438,6 @@ throtling: throttling
 throtting: throttling
 throught: thought
 throught: through
-througput: throughput
 throwed: threw
 throwed: thrown
 tigger: tiger
@@ -3514,7 +3454,6 @@ torpedos: torpedoes
 traditionnal: traditional
 trafic: traffic
 tranformation: transformation
-tranisent: transient
 tranparent: transparent
 tranpositions: transpositions
 transaciton: transaction
@@ -3595,7 +3534,6 @@ unexistent: nonexistent
 unforgetable: unforgettable
 unforseen: unforeseen
 unfortunateley: unfortunately
-unfortunatelly: unfortunately
 unfortunatly: unfortunately
 unidoce: unicode
 unilateraly: unilaterally
@@ -3650,7 +3588,6 @@ uresolved: unresolved
 usefull: useful
 usefuly: usefully
 userdefined: user-defined
-ussualy: usually
 usuall: usual
 usuall: usually
 usualy: usually
@@ -3677,7 +3614,6 @@ vengence: vengeance
 verfication: verification
 verfied: verified
 verfier: verifier
-verifing: verifying
 verifiy: verify
 verifyable: verifiable
 verifyer: verifier

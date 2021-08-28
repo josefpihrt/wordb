@@ -1,11 +1,9 @@
-﻿aad
-abnf
+﻿abnf
 acpi
 ado
 adpcm
 adsl
 aes
-agpl
 aix
 ajax
 amqp
@@ -138,8 +136,6 @@ htmls
 http
 httpd
 https
-iaac
-iaas
 iana
 icmp
 id

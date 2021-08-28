@@ -108,7 +108,6 @@ Brad
 Bradley
 Brandon
 Brenda
-Brendan
 Brett
 Brian
 Brianna
@@ -312,7 +311,6 @@ Floyd
 Frances
 Francis
 Frank
-Fred
 Freddie
 Frederic
 Frederick
@@ -751,7 +749,6 @@ Sidney
 Sigmund
 Simon
 Simone
-Sioux
 Skylar
 Socrates
 Solomon
