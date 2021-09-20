@@ -63,6 +63,7 @@ issn
 jit
 lbs
 lcd
+lgtm
 lifo
 llc
 lol
@@ -103,6 +104,7 @@ svp
 sw
 tbc
 tbd
+tldr
 toc
 tsa
 ucla

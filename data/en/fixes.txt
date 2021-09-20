@@ -297,6 +297,7 @@ annuling: annulling
 anonimous: anonymous
 anonynous: anonymous
 anotation: annotation
+anotations: annotations
 anounced: announced
 anouncement: announcement
 anoying: annoying
@@ -322,6 +323,7 @@ appeareance: appearance
 appeareances: appearances
 appearence: appearance
 appearences: appearances
+appendx: appendix
 appenix: appendix
 apperance: appearance
 appereance: appearance
@@ -505,11 +507,14 @@ augument: argument
 augument: augment
 auguments: arguments
 auguments: augments
+auhtority: authority
 autenticate: authenticate
 autenticated: authenticated
 autenticates: authenticates
 autenticating: authenticating
 autentication: authentication
+authenication: authentication
+authenications: authentications
 authenticaton: authentication
 authenticaton: authenticator
 authentification: authentication
@@ -973,6 +978,7 @@ congresional: congressional
 coniguous: contiguous
 conjuction: conjunction
 conjuntion: conjunction
+conncurrent: concurrent
 connectin: connecting
 connectin: connection
 connetion: connection
@@ -1151,6 +1157,8 @@ createion: creation
 creater: creator
 credenitials: credentials
 credentails: credentials
+crendetial: credential
+crendetials: credentials
 cristal: crystal
 critcal: critical
 critera: criteria
@@ -1454,6 +1462,7 @@ duplciated: duplicated
 duplicit: duplicate
 duplicit: duplicity
 duplicities: duplicates
+durablity: durability
 durring: during
 dyanmic: dynamic
 dynamicaly: dynamically
@@ -1517,6 +1526,8 @@ emtry: entry
 enapsulated: encapsulated
 encapselates: encapsulates
 encdoing: encoding
+enchancement: enhancement
+enchancements: enhancements
 encompases: encompass
 enconding: encoding
 encondings: encodings
@@ -1570,6 +1581,7 @@ enviromentalist: environmentalist
 enviromentalists: environmentalists
 enviromentally: environmentally
 enviroments: environments
+environmnet: environment
 envrionment: environment
 epression: expression
 epressions: expressions
@@ -1597,6 +1609,7 @@ espetially: especially
 espicially: especially
 essencial: essential
 establised: established
+estblishing: establishing
 evalutation: evaluation
 evalution: evaluation
 evalution: evolution
@@ -2035,6 +2048,7 @@ inbetween: in-between
 incensitive: insensitive
 incidently: incidentally
 incluing: including
+incomaptible: incompatible
 incomming: incoming
 incompability: incompatibility
 incompatabilities: incompatibilities
@@ -2117,6 +2131,7 @@ inifinity: infinity
 inifnity: infinity
 inital: initial
 initally: initially
+initiatize: initialize
 injestion: injection
 inlcude: include
 inluding: including
@@ -2215,6 +2230,7 @@ iritated: irritated
 irreplacable: irreplaceable
 irresistable: irresistible
 isnt: isn't
+isntall: install
 isntead: instead
 isoceles: isosceles
 istall: install
@@ -2295,6 +2311,8 @@ maitain: maintain
 malicous: malicious
 mamal: mammal
 managable: manageable
+managemen: management
+managemet: management
 managment: management
 manaully: manually
 manfiest: manifest
@@ -2322,6 +2340,8 @@ maximun: maximum
 meaningfull: meaningful
 meaningfull: meaningfully
 Mediteranean: Mediterranean
+meeeting: meeting
+meeetings: meetings
 mehtod: method
 memeber: member
 memebers: members
@@ -2608,6 +2628,7 @@ overrided: overridden
 overrided: overrode
 overriden: overridden
 overrites: overrides
+overrride: override
 overrwrite: overwrite
 overvwrite: overwrite
 overwelming: overwhelming
@@ -3023,6 +3044,7 @@ removeable: removable
 renderered: rendered
 renderering: rendering
 renderes: renders
+rendred: rendered
 rennovate: renovate
 rennovated: renovated
 rennovates: renovates
@@ -3195,6 +3217,7 @@ seperable: separable
 seperate: separate
 seperated: separated
 seperately: separately
+seperating: separating
 seperation: separation
 seperator: separator
 seperators: separators
@@ -3223,6 +3246,8 @@ sevice: service
 shareaware: shareware
 sheeps: sheep
 sherif: sheriff
+sherrif: sheriff
+sherrifs: sheriffs
 shieds: sheds
 shieds: shields
 shiping: shipping
@@ -3257,6 +3282,7 @@ simultanous: simultaneous
 simultanously: simultaneously
 singulariry: singularity
 slighty: slightly
+snaphot: snapshot
 snipppet: snippet
 somehting: something
 sometehing: something
@@ -3326,6 +3352,8 @@ strucure: structure
 strucuture: structure
 stubborness: stubbornness
 stucked: stuck
+stucture: structure
+stuctures: structures
 subcription: subscription
 subdirectoires: subdirectories
 subdirectores: subdirectories
@@ -3681,6 +3709,8 @@ verifing: verifying
 verifiy: verify
 verifyable: verifiable
 verifyer: verifier
+verision: version
+verisions: versions
 verison: version
 versionned: versioned
 versionning: versioning

@@ -930,6 +930,8 @@ servlets
 settability
 shader
 shaders
+sharded
+sharding
 shebang
 shebangs
 shim

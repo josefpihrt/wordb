@@ -126,6 +126,7 @@ Crayola
 Daimler
 Danone
 Darwin
+Datamole
 Debian
 Debussy
 Deezer
@@ -201,6 +202,7 @@ Gauss
 Gentium
 Gestapo
 Gibson
+Gingko
 Giropay
 GitBook
 Glonass
@@ -326,6 +328,7 @@ Laplace
 Learjet
 Lebesgue
 Leelawadee
+Lego
 Leia
 Leibniz
 Lempel
@@ -398,6 +401,7 @@ Nestlé
 Netflix
 Nicholson
 Nietzsche
+Nike
 Nimitz
 Nintendo
 Nissan
@@ -438,6 +442,7 @@ Perrier
 Petersen
 Peugeot
 Pfizer
+Philips
 Photoshop
 Picasso
 Pinocchio

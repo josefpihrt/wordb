@@ -51,6 +51,7 @@ Dependabot
 DirectX
 DocFX
 Docker
+DockerHub
 DotVVM
 Dovecot
 Drupal
@@ -109,6 +110,7 @@ JavaScript
 JBoss
 Jellyfin
 JetBrains
+JFrog
 Jira
 jQuery
 JSFiddle
@@ -121,6 +123,7 @@ KeePass
 Kentico
 Kibana
 Kotlin
+Ksonnet
 kubectl
 Kubernetes
 LaTeX
@@ -175,6 +178,7 @@ OpenID
 OpenOffice
 OpenSSH
 OpenSSL
+Opsgenie
 Pascal
 PeachPie
 PerfView
@@ -187,6 +191,7 @@ PhpStorm
 PKWare
 PKZIP
 Plotly
+Polly
 Postgres
 PostgreSQL
 PostScript

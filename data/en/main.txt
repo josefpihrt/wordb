@@ -903,6 +903,8 @@ affiliations
 affine
 affined
 affinities
+affinitization
+affinitized
 affinity
 affirm
 affirmation
@@ -2199,6 +2201,7 @@ approvals
 approve
 approved
 approver
+approvers
 approves
 approving
 approvingly
@@ -13944,6 +13947,7 @@ displease
 displeased
 displeases
 displeasure
+disposability
 disposable
 disposables
 disposal
@@ -16847,6 +16851,7 @@ excepted
 excepting
 exception
 exceptional
+exceptionalism
 exceptionally
 exceptions
 excepts
@@ -17458,7 +17463,9 @@ fabrics
 fabulous
 fabulously
 facade
+façade
 facades
+façades
 face
 faced
 facedown
@@ -24408,6 +24415,7 @@ infiltrators
 infinite
 infinitely
 infinitesimal
+infinitesimally
 infinities
 infinitive
 infinitives
@@ -26785,6 +26793,8 @@ launcher
 launchers
 launches
 launching
+launchpad
+launchpads
 launder
 laundered
 launderer
@@ -31014,6 +31024,8 @@ never
 nevermore
 nevertheless
 new
+newbie
+newbies
 newborn
 newborns
 newcomer
@@ -38230,6 +38242,10 @@ recursions
 recursive
 recursively
 recusal
+recuse
+recused
+recuses
+recusing
 recyclable
 recycle
 recycled
@@ -40944,6 +40960,8 @@ sandbar
 sandblast
 sandblasted
 sandbox
+sandboxes
+sandboxing
 sanded
 sander
 sanders
@@ -42293,6 +42311,8 @@ shepherds
 sherbet
 sheriff
 sheriffs
+sherpa
+sherpas
 sherries
 sherry
 she's
@@ -46037,6 +46057,7 @@ superiority
 superiors
 superlative
 superlatives
+supermajority
 superman
 supermarket
 supermarkets
@@ -51866,6 +51887,8 @@ webbed
 webbing
 webcam
 webcams
+webinar
+webinars
 weblog
 weblogs
 webmaster
@@ -52803,6 +52826,7 @@ xenon
 xenophobia
 xenophobic
 xi
+Xmas
 xylophone
 xylophones
 yacht

@@ -42,6 +42,7 @@ cls
 clsid
 cmos
 cms
+cncf
 com
 cpp
 cpu
@@ -272,6 +273,7 @@ psu
 qldb
 qvbr
 ram
+rbac
 rdbms
 rdp
 repl
