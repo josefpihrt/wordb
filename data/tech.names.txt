@@ -153,6 +153,7 @@ MuleSoft
 MyGet
 MySql
 Nerdbank
+Netlink
 Netscape
 Nette
 Newtonsoft
@@ -225,6 +226,7 @@ Scilab
 SciPy
 SemanticMerge
 Serilog
+Shouldly
 SignalR
 Silverlight
 Smalltalk
@@ -243,6 +245,7 @@ Swagger
 Swashbuckle
 Swift
 Sysdig
+Sysinternals
 Taskify
 TeamCity
 Telerik
@@ -252,6 +255,7 @@ TortoiseMerge
 TSLint
 TypeScript
 VBScript
+vcpkg
 Verilog
 VHDL
 Vim
@@ -266,6 +270,7 @@ WebForms
 WebGL
 WebKit
 WebP
+WinDbg
 WinForms
 WinSCP
 WinZip

@@ -1,6 +1,9 @@
 ﻿addr
 agg
 algo
+arccos
+arcsin
+arctan
 arg
 args
 arr
@@ -16,6 +19,7 @@ calc
 cctor
 cctors
 cert
+certs
 cfg
 cmd
 cmp

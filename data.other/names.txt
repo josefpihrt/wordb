@@ -247,6 +247,7 @@ Luigi
 Luis
 Luís
 Luisa
+Lukáš
 Lyudmila
 Lyudmyla
 Maciej
@@ -332,6 +333,7 @@ Panagiotis
 Paola
 Paolo
 Pascal
+Patrik
 Pauline
 Paulo
 Pavel
@@ -358,6 +360,7 @@ Rashid
 Rashida
 Raul
 Raúl
+Ravindra
 Regina
 Reinhard
 René
@@ -374,7 +377,10 @@ Ryosuke
 Sabina
 Sabine
 Salma
+Sanjay
 Satoshi
+Sebastián
+Sebastiano
 Sébastien
 Sergei
 Sergey
@@ -439,4 +445,7 @@ Yolanda
 Yousef
 Yusuf
 Yusuke
+Zikmund
+Zoltán
+Zoltána
 Zuzana

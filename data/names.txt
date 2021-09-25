@@ -1,4 +1,5 @@
 ﻿Abbott
+Abrams
 Accenture
 Accor
 Acomodeo
@@ -6,6 +7,7 @@ Adenauer
 Adidas
 Adyen
 Aeroflot
+Agrifac
 Aharoni
 Airbnb
 Airbus
@@ -22,6 +24,7 @@ Amaretto
 AMD
 Amtrak
 Amundsen
+Antares
 Antonov
 Aparajita
 Apollo
@@ -29,11 +32,13 @@ Arial
 Armani
 Armstrong
 Asana
+Asterix
 Atheros
 Athlon
 Atlassian
 Attenborough
 AutoCAD
+Avalon
 Avast
 Avenir
 Avogadro
@@ -72,6 +77,7 @@ Bosch
 Botticelli
 Braintree
 Britannica
+Bruijn
 Buchanan
 Bugatti
 Buonarroti
@@ -136,6 +142,7 @@ DHL
 Dickens
 Diderot
 Didot
+Diffie
 Dirichlet
 Disney
 DocuSign
@@ -156,6 +163,7 @@ Energizer
 Epson
 Ericsson
 ESPN
+Esposito
 Ethereum
 Euler
 Eurocard
@@ -202,6 +210,7 @@ Gauss
 Gentium
 Gestapo
 Gibson
+Gillespie
 Gingko
 Giropay
 GitBook
@@ -241,6 +250,7 @@ Heisenberg
 Helvetica
 Hemingway
 Hennessy
+Hewlett
 Heyerdahl
 Hilton
 Hindenburg
@@ -268,6 +278,7 @@ IBM
 ICQ
 IdenTrust
 Inconsolata
+Infineon
 InfoCert
 Instagram
 InstaPayment
@@ -362,6 +373,7 @@ Marriott
 Maserati
 Mastercard
 Mathematica
+Matsushita
 Maupassant
 Maxwell
 Mazda
@@ -385,6 +397,7 @@ Montesquieu
 Montessori
 Moore
 Morris
+Morrison
 Motorola
 Mozart
 Mozilla
@@ -409,7 +422,9 @@ Nobel
 Nokia
 Nordstern
 Northwind
+Norton
 Novartis
+Novell
 NVIDIA
 Oakley
 Odnoklassniki
@@ -425,6 +440,7 @@ Orwell
 Oshkosh
 Othello
 Ozymandias
+Packard
 Paganini
 Palatino
 Palmolive
@@ -447,6 +463,7 @@ Photoshop
 Picasso
 Pinocchio
 Pinterest
+Planck
 PlayStation
 Pocahontas
 Poisson
@@ -529,6 +546,7 @@ Squarespace
 Starbucks
 Starcraft
 Steinbeck
+Stephens
 Stewart
 Stradivari
 Strava
@@ -537,9 +555,11 @@ Sutherland
 Suzuki
 Swissair
 Sylfaen
+Symantec
 Taggart
 Tahoma
 Technicolor
+Tencent
 Teradata
 Tesla
 Texaco

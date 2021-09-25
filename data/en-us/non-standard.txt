@@ -1,0 +1,5 @@
+﻿noncanceled
+precanceled
+uncancelable
+uncanceled
+unlocalized

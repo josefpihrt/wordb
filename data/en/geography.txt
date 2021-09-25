@@ -109,6 +109,7 @@ Asia
 Asian
 Asians
 Asmara
+Assamese
 Astana
 Asunción
 Atacama
@@ -145,6 +146,7 @@ Bahrainis
 Baku
 Balearic
 Bali
+Balinese
 Balkan
 Balkans
 Balochistan
@@ -566,6 +568,7 @@ German
 Germanic
 Germans
 Germany
+Gettysburg
 Ghana
 Ghanaian
 Ghanaians
@@ -1189,6 +1192,7 @@ Peru
 Perugia
 Peruvian
 Peruvians
+Petersburg
 Philadelphia
 Philippine
 Philippines
@@ -1235,6 +1239,7 @@ Qatar
 Qatari
 Qataris
 Quebec
+Québec
 Quebecer
 Quebecers
 Québécois
@@ -1263,6 +1268,7 @@ Richmond
 Riga
 Rijeka
 Rimini
+Rio de Janeiro
 Riyadh
 Rochester
 Romania

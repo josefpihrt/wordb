@@ -217,6 +217,7 @@ msmq
 msrc
 mssql
 msvc
+msxml
 mta
 mvc
 mvvm
@@ -261,6 +262,7 @@ pid
 pkce
 pkcs
 pki
+plinq
 png
 pnp
 pnrp
@@ -342,6 +344,7 @@ svg
 svga
 tcp
 tcpip
+tcs
 tdd
 tfm
 tfms
@@ -413,3 +416,4 @@ xslt
 xsrf
 xss
 xssi
+ycsb

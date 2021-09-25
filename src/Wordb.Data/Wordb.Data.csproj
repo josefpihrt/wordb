@@ -13,6 +13,9 @@
 
   <ItemGroup>
     <Content Include="..\..\data\acronyms.txt" Link="acronyms.txt" />
+    <Content Include="..\..\data\en\non-standard.txt" Link="en\non-standard.txt" />
+    <Content Include="..\..\data\en-br\non-standard.txt" Link="en-br\non-standard.txt" />
+    <Content Include="..\..\data\en-us\non-standard.txt" Link="en-us\non-standard.txt" />
     <Content Include="..\..\data\fixes.txt" Link="fixes.txt" />
     <Content Include="..\..\data\names.txt" Link="names.txt" />
     <Content Include="..\..\data\tech.acronyms.txt" Link="tech.acronyms.txt" />

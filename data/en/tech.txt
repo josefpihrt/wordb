@@ -144,6 +144,7 @@ bitfields
 bitmask
 bitmasking
 bitmasks
+bitness
 bitrate
 bitrates
 bitset
@@ -329,6 +330,8 @@ deleter
 deleters
 delim
 delims
+demuxer
+demuxers
 denormal
 denormalization
 denormalize
@@ -402,6 +405,7 @@ eval
 evals
 exe
 expando
+expandos
 exploitabilities
 exploitability
 extensionless
@@ -417,6 +421,7 @@ falsy
 favicon
 favicons
 fetchable
+figlet
 filename
 filenames
 filesystem
@@ -485,7 +490,8 @@ hotfix
 hotfixes
 hotkey
 hotkeys
-HRESULT
+hresult
+hresults
 hyperparameter
 hyperparameters
 hypertext
@@ -595,6 +601,8 @@ macroblock
 macroblocks
 macrotask
 macrotasks
+makefile
+makefiles
 memberwise
 memoization
 memoize
@@ -664,6 +672,8 @@ mutables
 mutator
 mutex
 mutexes
+muxer
+muxers
 namespaced
 namespacing
 negatable
@@ -686,6 +696,8 @@ noob
 noobs
 noop
 noops
+nuget
+nugets
 nullability
 nullable
 nullables
@@ -693,6 +705,8 @@ nullish
 numerics
 nybble
 nybbles
+obfuscator
+obfuscators
 observables
 octals
 opcode
@@ -721,6 +735,7 @@ paravirtualizing
 paren
 parens
 pascalize
+passthrough
 passwordless
 permalink
 permalinks
@@ -920,10 +935,13 @@ scrollers
 scrum
 seekable
 segfault
+segfaulting
 segfaults
 segmenter
 segmenters
 seminumerical
+semisynchronous
+semisynchronously
 serverless
 servlet
 servlets
@@ -957,6 +975,7 @@ snippetizing
 softlinked
 sortable
 spec
+splatting
 statefulness
 stdio
 stringifiable
@@ -1041,6 +1060,8 @@ symlink
 symlinked
 symlinking
 symlinks
+syscall
+syscalls
 tabify
 tablespace
 tablespaces
@@ -1136,6 +1157,7 @@ unindexes
 unindexing
 uninstallation
 uninvocable
+uniprocessor
 unmergable
 unmount
 unmounted
@@ -1208,5 +1230,6 @@ worktree
 worktrees
 wrappee
 wrappees
+writeback
 xor
 xored

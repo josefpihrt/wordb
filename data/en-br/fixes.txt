@@ -9,6 +9,10 @@ draughtmanship: draughtsmanship
 draughtmen: draughtsmen
 epiloque: epilogue
 fullfil: fulfil
+initailiser: initialiser
+initailisers: initialisers
+initaliser: initialiser
+initalisers: initialisers
 initiailses: initialises
 intialise: initialise
 intialised: initialised
@@ -26,6 +30,8 @@ monetized: monetised
 monetizes: monetises
 monetizing: monetising
 neigbourhood: neighbourhood
+optimsation: optimisation
+optimsed: optimised
 parenthised: parenthesised
 serialier: serialiser
 serilisation: serialisation
@@ -39,3 +45,4 @@ specialied: specialised
 syncronisation: synchronisation
 synthezised: synthesised
 uninitialied: uninitialised
+unintialised: uninitialised

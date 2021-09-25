@@ -88,6 +88,12 @@ armors
 armory
 artifact
 artifacts
+atomize
+atomized
+atomizer
+atomizers
+atomizes
+atomizing
 authorization
 authorizations
 authorize
@@ -895,6 +901,7 @@ naturalize
 naturalized
 naturalizes
 naturalizing
+Navajo
 neighbor
 neighbored
 neighborhood

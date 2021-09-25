@@ -85,6 +85,12 @@ armours
 armoury
 artefact
 artefacts
+atomise
+atomised
+atomiser
+atomisers
+atomises
+atomising
 aubergine
 aubergines
 authorisation
@@ -886,6 +892,7 @@ naturalise
 naturalised
 naturalises
 naturalising
+Navaho
 neighbour
 neighboured
 neighbourhood

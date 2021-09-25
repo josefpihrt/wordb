@@ -9,6 +9,7 @@ bigint
 blogspot
 byref
 byval
+callvirt
 chmod
 codegen
 colspan
@@ -32,6 +33,7 @@ dotnetcore
 elif
 endif
 endregion
+findstr
 foreach
 gzip
 hidebysig
@@ -63,6 +65,7 @@ lptstr
 lpwstr
 lvalue
 mailto
+memcmp
 memcpy
 memmove
 mkdir
@@ -86,6 +89,7 @@ nvarchars
 onchange
 onclick
 paramref
+passwd
 printf
 psz
 pwsh
@@ -130,6 +134,7 @@ tsconfig
 txt
 typedef
 typedefs
+typelib
 typeof
 typeparam
 typeparamref
@@ -143,6 +148,7 @@ vscode
 vshost
 vstest
 vsthrd
+wcwidth
 winbase
 wincrypt
 windir
@@ -155,6 +161,7 @@ xobject
 xpath
 xpaths
 xplat
+xterm
 xvalue
 yvalue
 zvalue
