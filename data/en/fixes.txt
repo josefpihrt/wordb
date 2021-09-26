@@ -345,6 +345,8 @@ appenix: appendix
 apperance: appearance
 appereance: appearance
 appereances: appearances
+appication: application
+appications: applications
 applicablity: applicability
 appling: applying
 appopriate: appropriate
@@ -599,6 +601,7 @@ avarege: average
 averate: average
 avialable: available
 aviod: avoid
+awarness: awareness
 aweful: awful
 awfull: awful
 bacause: because
@@ -606,6 +609,8 @@ backgound: background
 backgroud: background
 backslashs: backslashes
 baggages: baggage
+bahavior: behavior
+bahaviors: behaviors
 baloon: balloon
 baloons: balloons
 bandwith: bandwidth
@@ -649,6 +654,7 @@ betweeen: between
 betwen: between
 betwenn: between
 beutifier: beautifier
+bewteen: between
 beyound: beyond
 bidiretional: bidirectional
 bidning: binding
@@ -671,6 +677,7 @@ boostrapper: bootstrapper
 bootsraps: bootstraps
 boudaries: boundaries
 boudary: boundary
+boundery: boundary
 boundries: boundaries
 boundry: boundary
 bouyant: buoyant
@@ -837,6 +844,9 @@ clinicaly: clinically
 clippboard: clipboard
 clustser: cluster
 cmopression: compression
+coalese: coalesce
+coalesed: coalesced
+coaleses: coalesces
 coallescence: coalescence
 codition: condition
 coefficent: coefficient
@@ -1000,6 +1010,8 @@ comunicated: communicated
 comunicates: communicates
 comunicating: communicating
 comunity: community
+conanicalize: canonicalize
+conanicalized: canonicalized
 concantenated: concatenated
 concatenatd: concatenate
 concatenatd: concatenated
@@ -1025,7 +1037,9 @@ concurrecy: concurrency
 conditionaly: conditionally
 conditonal: conditional
 conditons: conditions
+condtion: condition
 condtional: conditional
+condtions: conditions
 conection: connection
 conections: connections
 confgures: configures
@@ -1131,6 +1145,7 @@ containin: containing
 containng: containing
 containter: container
 containts: contains
+contaning: containing
 contant: constant
 contant: content
 contants: constants
@@ -1202,6 +1217,8 @@ coordinat: coordinate
 coordinnate: coordinate
 coordonate: coordinate
 coould: could
+coppied: copied
+corectly: correctly
 corespond: correspond
 coresponded: corresponded
 corespondence: correspondence
@@ -1278,12 +1295,14 @@ Dannish: Danish
 daquiri: daiquiri
 dashboad: dashboard
 databse: database
+deafault: default
 deafult: default
 deamon: daemon
 deatails: details
 deault: default
 debateable: debatable
 debugability: debuggability
+debugee: debuggee
 debuger: debugger
 debuging: debugging
 debuigging: debugging
@@ -1430,6 +1449,7 @@ deterioriating: deteriorating
 determins: determine
 determins: determines
 determinstic: deterministic
+determistic: deterministic
 devanagri: devanagari
 develope: develop
 develope: developed
@@ -1582,6 +1602,7 @@ ecclectic: eclectic
 ecnoded: encoded
 ecrypting: encrypting
 ecryption: encryption
+editting: editing
 efect: effect
 efects: effects
 effecient: efficient
@@ -1634,6 +1655,8 @@ empolyee: employee
 emptys: empties
 emtpy: empty
 emtry: entry
+emumerator: enumerator
+emumerators: enumerators
 enapsulated: encapsulated
 encapselates: encapsulates
 encdoing: encoding
@@ -1643,6 +1666,9 @@ encompases: encompass
 enconding: encoding
 encondings: encodings
 encouter: encounter
+encoutered: encountered
+encoutering: encountering
+encouters: encounters
 encrpytion: encryption
 encryp: encrypt
 encryped: encrypted
@@ -1698,6 +1724,8 @@ environement: environment
 environements: environments
 environemnt: environment
 environemnts: environments
+environmnent: environment
+environmnents: environments
 environmnet: environment
 envrionment: environment
 epression: expression
@@ -1826,6 +1854,7 @@ expresssions: expressions
 exptession: expression
 exstensions: extensions
 extactly: exactly
+extensiblity: extensibility
 extensiosns: extensions
 extenstion: extension
 extenstions: extensions
@@ -2071,6 +2100,7 @@ highlevel: high-level
 highligher: highlighter
 hight: height
 hightlight: highlight
+hightlighting: highlighting
 higlight: highlight
 higlighted: highlighted
 higlighting: highlighting
@@ -2219,6 +2249,7 @@ indcating: indicating
 indecates: indicates
 indefinetely: indefinitely
 indefinitly: indefinitely
+indefintely: indefinitely
 indendation: indentation
 indentical: identical
 indentifier: identifier
@@ -2389,6 +2420,8 @@ invaild: invalid
 invaldiated: invalidated
 invarant: invariant
 invarient: invariant
+invididual: individual
+invididuals: individuals
 invisble: invisible
 invoction: invocation
 invokable: invocable
@@ -2733,6 +2766,7 @@ ocurrances: occurrences
 ocurred: occurred
 ocurrence: occurrence
 ocurrences: occurrences
+offerred: offered
 offical: official
 officals: officials
 officaly: officially
@@ -2848,6 +2882,8 @@ paralell: parallel
 parallell: parallel
 paramater: parameter
 paramaters: parameters
+paramenter: parameter
+paramenters: parameters
 parameteres: parameters
 paramter: parameter
 paramters: parameters
@@ -2899,6 +2935,8 @@ perfomers: performers
 perfoming: performing
 performace: performance
 performaces: performances
+perfromance: performance
+perfromances: performances
 perfromed: performed
 peridiocally: periodically
 peristent: persistent
@@ -2991,6 +3029,8 @@ posssibly: possibly
 postgress: postgres
 postion: position
 postional: positional
+postition: position
+postitions: positions
 postive: positive
 potatos: potatoes
 potentailly: potentially
@@ -3155,8 +3195,10 @@ purpouse: purpose
 qeueries: queries
 qoutes: quotes
 quadradic: quadratic
+qualifed: qualified
 qualifer: qualifier
 qualifers: qualifiers
+qualifes: qualifies
 quarantaine: quarantine
 quarentine: quarantine
 queing: queuing
@@ -3168,6 +3210,8 @@ questionnair: questionnaire
 queueu: queue
 queueus: queues
 rabbbit: rabbit
+racoon: raccoon
+racoons: raccoons
 ralative: relative
 randomzier: randomizer
 reachablility: reachability
@@ -3402,6 +3446,7 @@ rolledback: rollbacked
 rolledback: rolled back
 rollsback: rolls back
 rolout: rollout
+Rolsyn: Roslyn
 roomate: roommate
 roundhous: roundhouse
 roundrobin: round-robin
@@ -3437,6 +3482,7 @@ schedular: scheduler
 scrol: scroll
 seaching: searching
 searchin: searching
+searchs: searches
 searpate: separate
 seconde: second
 seconde: seconds
@@ -3593,6 +3639,9 @@ spontanious: spontaneous
 sqllite: sqlite
 squence: sequence
 squeze: squeeze
+squigglies: squiggles
+sreenshot: screenshot
+sreenshots: screenshots
 standart: standard
 standrad: standard
 statefull: stateful
@@ -3772,6 +3821,9 @@ syncronous: synchronous
 synonomous: synonymous
 synopsys: synopsis
 synoyms: synonyms
+syntatic: syntactic
+syntatical: syntactical
+syntatically: syntactically
 syntesizer: synthesizer
 syntesizers: synthesizers
 synthethic: synthetic
@@ -4023,6 +4075,7 @@ verifyer: verifier
 verision: version
 verisions: versions
 verison: version
+verisons: versions
 versionned: versioned
 versionning: versioning
 veryfy: verify

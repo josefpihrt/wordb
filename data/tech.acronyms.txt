@@ -187,6 +187,7 @@ lkml
 lmdb
 loc
 lru
+lsass
 lstm
 lts
 lzma

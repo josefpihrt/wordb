@@ -1011,6 +1011,7 @@ Monterey
 Montevideo
 Montgomery
 Montreal
+Montréal
 Montserrat
 Montserratian
 Montserratians
@@ -1427,6 +1428,7 @@ Sri Lankan
 Sri Lankans
 Stalingrad
 Stanford
+Stavanger
 Stepanakert
 Stockholm
 Strasbourg

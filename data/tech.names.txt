@@ -83,6 +83,7 @@ GitLink
 Gitter
 GNOME
 GNU
+GnuPG
 GnuTLS
 Golang
 Grafana
@@ -261,6 +262,7 @@ VHDL
 Vim
 VMWare
 Vorbis
+vsdbg
 Vue
 W3C
 Wasm

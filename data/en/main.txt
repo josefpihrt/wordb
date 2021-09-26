@@ -1757,6 +1757,8 @@ aniseed
 anisette
 anisotropic
 anisotropically
+anisotropies
+anisotropy
 ankh
 ankhs
 ankle
@@ -4868,6 +4870,7 @@ blocks
 blocky
 blocs
 blog
+blogged
 blogger
 bloggers
 blogging
@@ -5656,6 +5659,8 @@ breeds
 breeze
 breezed
 breezes
+breezier
+breeziest
 breezing
 breezy
 brethren
@@ -24501,6 +24506,8 @@ influenza
 influx
 influxes
 info
+infographic
+infographics
 infomercial
 infomercials
 inform
@@ -25305,6 +25312,7 @@ interviewing
 interviews
 interwar
 interweave
+interweaved
 interweaves
 interweaving
 interwoven
@@ -26166,6 +26174,8 @@ kale
 kaleidoscope
 kaleidoscopes
 kamikaze
+kanban
+kanbans
 kangaroo
 kangaroos
 kanji
@@ -28945,6 +28955,8 @@ megapixels
 megastore
 megastores
 megatons
+megatrend
+megatrends
 megawatt
 megawatts
 melamine
@@ -29420,6 +29432,8 @@ millisec
 millisecond
 milliseconds
 millisecs
+milliwatt
+milliwatts
 mills
 millstone
 millstones
@@ -34407,6 +34421,7 @@ photomontage
 photon
 photonic
 photons
+photorealistic
 photos
 photosensitive
 photosynthesis
@@ -34421,6 +34436,7 @@ phrasings
 phylum
 physic
 physical
+physicality
 physically
 physicals
 physician

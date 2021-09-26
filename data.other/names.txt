@@ -43,6 +43,7 @@ Ariel
 Armando
 Artem
 Aslan
+Aurelia
 Ayesha
 Björn
 Blanca
@@ -99,6 +100,7 @@ Etienne
 Evgeniy
 Evgeniya
 Fabio
+Fabricio
 Fabrizio
 Fatima
 Federica
@@ -292,6 +294,7 @@ Medard
 Mehmet
 Michaela
 Michal
+Michał
 Miguel
 Mihály
 Mikhail

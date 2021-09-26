@@ -3,6 +3,7 @@ Abrams
 Accenture
 Accor
 Acomodeo
+Acrolinx
 Adenauer
 Adidas
 Adyen
@@ -33,6 +34,7 @@ Armani
 Armstrong
 Asana
 Asterix
+Astoria
 Atheros
 Athlon
 Atlassian
@@ -85,6 +87,7 @@ Burton
 Cadillac
 Calibri
 Calisto MT
+Callisto
 Caltech
 Calvados
 Cambria
@@ -106,6 +109,7 @@ Chamberlain
 Chaplin
 Chevrolet
 Chianti
+Chopin
 Chrysler
 Churchill
 Cisco
@@ -126,7 +130,9 @@ Constantia
 Contoso
 Copperplate Gothic
 Corbel
+Cordova
 Coriolis
+Cortana
 Crawford
 Crayola
 Daimler
@@ -153,6 +159,7 @@ Douglas
 Dropbox
 DuPont
 Duracell
+Dvorak
 eBay
 Edison
 Edwards
@@ -172,6 +179,7 @@ Evernote
 Excalibur
 Expedia
 Exxon
+Fabrikam
 Facebook
 Faulkner
 FedEx
@@ -201,6 +209,7 @@ Gabriola
 Gadugi
 Gagarin
 Galois
+Gantt
 Garamond
 Garfield
 Garibaldi
@@ -378,6 +387,7 @@ Maupassant
 Maxwell
 Mazda
 Meiryo
+Melville
 Mersenne
 Metallica
 Metternich
@@ -465,6 +475,7 @@ Pinocchio
 Pinterest
 Planck
 PlayStation
+Pluralsight
 Pocahontas
 Poisson
 Polanski
@@ -538,6 +549,7 @@ Solaris
 Solingen
 Solomon
 SoundCloud
+Sparta
 Spock
 Spotify
 Springer
@@ -579,6 +591,7 @@ Trebuchet MS
 Trello
 TripAdvisor
 Trivago
+Tudor
 Tupperware
 Turing
 Twilio
@@ -611,6 +624,7 @@ Voltaire
 Volvo
 Vonnegut
 Wagner
+Wallace
 Walmart
 Watson
 Webdings

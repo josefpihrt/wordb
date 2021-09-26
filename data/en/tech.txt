@@ -240,6 +240,8 @@ comparand
 comparands
 compat
 compilable
+compiland
+compilands
 composability
 composable
 concat
@@ -294,6 +296,8 @@ debounces
 debouncing
 debuggability
 debuggable
+debuggee
+debuggees
 decompilation
 decompilations
 decompile
@@ -315,6 +319,7 @@ deduped
 dedupes
 deduping
 defaultable
+defrag
 defuzzification
 deinitialize
 deinitialized
@@ -468,7 +473,9 @@ hardcodes
 hardcoding
 harddisk
 harddisks
+hardlink
 hardlinked
+hardlinks
 hashbang
 hashbangs
 hashcode
@@ -641,6 +648,8 @@ mipmapping
 misnested
 mixin
 mixins
+monad
+monads
 multibranch
 multibranches
 multibyte
@@ -1060,6 +1069,8 @@ symlink
 symlinked
 symlinking
 symlinks
+sysadmin
+sysadmins
 syscall
 syscalls
 tabify

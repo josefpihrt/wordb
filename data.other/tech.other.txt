@@ -41,6 +41,7 @@ hkcu
 hklm
 href
 hwnd
+iexplore
 iisexpress
 ildasm
 inetpub
@@ -70,6 +71,7 @@ memcpy
 memmove
 mkdir
 mscorlib
+msiexec
 mssqlserver
 msvcrt
 msxsl
@@ -82,6 +84,7 @@ netsh
 netstandard
 ngen
 nodejs
+nowarn
 npmjs
 nullptr
 nvarchar
@@ -156,6 +159,7 @@ winform
 wnd
 wparam
 wwwroot
+xcopy
 xmldoc
 xobject
 xpath

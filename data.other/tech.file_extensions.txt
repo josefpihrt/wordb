@@ -28,6 +28,7 @@ exif
 flac
 flv
 fpg
+fsproj
 fsx
 gitattributes
 gitconfig
