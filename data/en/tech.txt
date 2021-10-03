@@ -585,6 +585,7 @@ linefeeds
 linkback
 linker
 linkers
+linted
 linter
 linters
 linting
@@ -1001,6 +1002,8 @@ stylesheet
 stylesheets
 subarray
 subarrays
+subchart
+subcharts
 subclassing
 subdir
 subdirs

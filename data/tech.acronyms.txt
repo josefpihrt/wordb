@@ -55,6 +55,7 @@ csdl
 csrf
 csrss
 ctcp
+cts
 cwd
 dao
 db
@@ -234,6 +235,7 @@ nre
 ntfs
 ntlm
 ntp
+oas
 ocr
 ocsp
 odbc
@@ -372,6 +374,7 @@ unc
 upn
 upnp
 uri
+uris
 url
 urls
 urn

@@ -104,6 +104,7 @@ decryptable
 decryptions
 deduplicator
 deferrability
+deformatter
 demultiplexed
 demultiplexer
 demultiplexers
@@ -267,6 +268,7 @@ overallocate
 overallocates
 overallocation
 overallocations
+overposting
 pageable
 parseable
 partitionable
@@ -304,6 +306,8 @@ prejitting
 prelaunch
 premultiply
 prenegotiated
+preproduction
+preproductions
 preresolved
 preresolves
 prescale
@@ -358,6 +362,7 @@ reenable
 reentrable
 reentrance
 reescape
+reflectable
 reimport
 reimported
 reimporting
@@ -369,12 +374,16 @@ relocator
 rematerialization
 remotable
 remoted
+renderable
+renderables
 renegotation
 reparent
 reparented
 repartitioning
 repersist
 repinned
+reportee
+reportees
 reprobe
 reprofile
 reprofiling
@@ -414,6 +423,7 @@ shortcircuiting
 shortcircuits
 shortcutted
 shortcutting
+simplifiable
 sizings
 splatted
 splatting

@@ -29,6 +29,7 @@ Antares
 Antonov
 Aparajita
 Apollo
+Aramis
 Arial
 Armani
 Armstrong
@@ -37,6 +38,7 @@ Asterix
 Astoria
 Atheros
 Athlon
+Athos
 Atlassian
 Attenborough
 AutoCAD
@@ -125,6 +127,7 @@ Cointreau
 Collins
 Comcast
 Compaq
+ConocoPhillips
 Consolas
 Constantia
 Contoso
@@ -149,6 +152,7 @@ Dickens
 Diderot
 Didot
 Diffie
+Dijkstra
 Dirichlet
 Disney
 DocuSign
@@ -213,6 +217,7 @@ Gantt
 Garamond
 Garfield
 Garibaldi
+Gartner
 Gatorade
 Gauguin
 Gauss
@@ -230,6 +235,7 @@ Gödel
 Godzilla
 Goebbels
 Goethe
+Goldberg
 Goodreads
 Google
 Googlebot
@@ -484,6 +490,7 @@ Pollock
 Pompidou
 Pontiac
 Porsche
+Porthos
 PowerPoint
 Puccini
 Pygmalion
@@ -543,8 +550,10 @@ Sinatra
 Sirius
 SkyDrive
 Skype
+Skywalker
 Smirnoff
 Snapchat
+Softonic
 Solaris
 Solingen
 Solomon
@@ -613,6 +622,7 @@ Valvoline
 Verdana
 Verifone
 Verisign
+Verizon
 Viagra
 Viber
 Vimeo

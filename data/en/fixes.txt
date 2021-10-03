@@ -1612,6 +1612,7 @@ efficent: efficient
 efficently: efficiently
 effiecently: efficiently
 effitient: efficient
+egreess: egress
 eigth: eight
 elemen: element
 elemens: elements
@@ -2072,6 +2073,8 @@ hasbang: hashbang
 hasnt: hasn't
 havent: haven't
 hbernate: hibernate
+headder: header
+headders: headers
 headign: heading
 Hebrev: Hebrew
 heigh: height
@@ -3094,6 +3097,8 @@ presurres: pressures
 prettyfy: prettify
 prettyfying: prettifying
 prevens: prevents
+previos: previous
+previosly: previously
 previoulsy: previously
 prevously: previously
 primarely: primarily
@@ -3537,6 +3542,8 @@ sequencial: sequential
 sequencially: sequentially
 sequnece: sequence
 sequneces: sequences
+serilializer: serializer
+serilializers: serializers
 serivces: services
 servcie: service
 servicable: serviceable
@@ -3982,6 +3989,7 @@ unfortunatly: unfortunately
 unfortunetely: unfortunately
 unidoce: unicode
 unilateraly: unilaterally
+uninstalation: uninstallation
 uninstalltion: uninstallation
 unintialized: uninitialized
 unintrepreted: uninterpreted
