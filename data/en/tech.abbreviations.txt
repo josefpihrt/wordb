@@ -44,6 +44,7 @@ devs
 diag
 dic
 dict
+dicts
 dir
 dirs
 dlg

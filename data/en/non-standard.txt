@@ -211,6 +211,7 @@ minibatches
 minidump
 minidumps
 misassigned
+misauthenticated
 misconfigured
 misconfigures
 mispredict
@@ -264,6 +265,7 @@ obsoleted
 obsoletes
 obsoleting
 outputter
+outputters
 overallocate
 overallocates
 overallocation
@@ -278,6 +280,7 @@ permissively
 persistable
 pinnable
 placeable
+pollable
 positionally
 preauthenticate
 preauthenticated
@@ -319,6 +322,7 @@ preserialized
 preservable
 prespill
 prespilled
+pretreatment
 productization
 profilability
 profilable
@@ -402,6 +406,7 @@ resumable
 resurrectable
 retraversable
 retryable
+rollbacked
 roundtrippability
 roundtrippable
 runnable
@@ -622,6 +627,7 @@ unstarted
 unstretched
 unsubscriptions
 unsubstituted
+unsufficient
 unsupplied
 unsupport
 unswitching

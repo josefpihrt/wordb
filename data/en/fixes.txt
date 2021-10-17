@@ -265,6 +265,8 @@ altought: although
 amatuer: amateur
 ambigious: ambiguous
 ambigous: ambiguous
+ambiguos: ambiguous
+ambiguosly: ambiguously
 ambiquous: ambiguous
 amendement: amendment
 ammend: amend
@@ -1494,6 +1496,7 @@ diffrence: difference
 diffrent: different
 dificulties: difficulties
 dificulty: difficulty
+diggging: digging
 diiferent: different
 dilema: dilemma
 dillema: dilemma
@@ -1686,6 +1689,7 @@ enforeced: enforced
 enlargment: enlargement
 enlargments: enlargements
 enoough: enough
+enqeueue: enqueue
 enrollement: enrollment
 enrolment: enrollment
 enrolments: enrollments
@@ -1802,8 +1806,10 @@ excption: exception
 excuted: executed
 exection: execution
 exectuable: executable
+exectutor: executor
 executation: execution
 executeable: executable
+executer: executor
 exepected: expected
 exept: except
 exeption: exception
@@ -2089,6 +2095,7 @@ heterogenous: heterogeneous
 hexidecimal: hexadecimal
 hibenate: hibernate
 hidding: hiding
+hiearchical: hierarchical
 hiearchies: hierarchies
 hiearchy: hierarchy
 hierachical: hierarchical
@@ -2303,6 +2310,7 @@ ingored: ignored
 ingoring: ignoring
 ingrediens: ingredient
 ingrediens: ingredients
+ingres: ingress
 inherintance: inheritance
 inheritence: inheritance
 inherites: inherits
@@ -2393,6 +2401,7 @@ interferring: interfering
 intergrate: integrate
 intergrated: integrated
 intergration: integration
+intermadiate: intermediate
 internall: internal
 internall: internally
 internaly: internally
@@ -2462,6 +2471,7 @@ knonw: known
 knonwn: known
 knowning: knowing
 konsole: console
+Kubenernetes: Kubernetes
 lable: label
 lamdba: lambda
 langauge: language
@@ -2483,6 +2493,7 @@ lengthes: lengthens
 lengthes: lengths
 lenths: lengths
 levarage: leverage
+lexicographicly: lexicographically
 liason: liaison
 liasons: liaisons
 libarary: library
@@ -2550,6 +2561,8 @@ matricies: matrices
 maximun: maximum
 meaningfull: meaningful
 meaningfull: meaningfully
+measurment: measurement
+measurments: measurements
 Mediteranean: Mediterranean
 meeeting: meeting
 meeetings: meetings
@@ -2773,6 +2786,7 @@ offerred: offered
 offical: official
 officals: officials
 officaly: officially
+officialy: officially
 offsett: offset
 ofset: offset
 oftenly: often
@@ -2829,6 +2843,7 @@ otehrwise: otherwise
 otherweise: otherwise
 ouptut: output
 ouputted: outputted
+outgoining: outgoing
 outputed: outputted
 outputing: outputting
 outragous: outrageous
@@ -2897,6 +2912,7 @@ paremeters: parameters
 parente: parented
 parente: parents
 parentesis: parenthesis
+parenthesses: parentheses
 parenthethis: parenthesis
 paritioning: partitioning
 parliment: parliament
@@ -3222,6 +3238,7 @@ randomzier: randomizer
 reachablility: reachability
 readed: read
 readible: readable
+readyness: readiness
 reallocte: reallocate
 realocate: reallocate
 realocated: reallocated
@@ -3284,6 +3301,7 @@ referecne: reference
 refered: referred
 referencial: referential
 referencially: referentially
+referenece: reference
 refereneced: referenced
 referening: referencing
 referense: reference
@@ -3302,6 +3320,7 @@ refrence: reference
 refresing: refreshing
 regadless: regardless
 regardles: regardless
+registartion: registration
 registation: registration
 registations: registrations
 registeration: registration
@@ -3505,6 +3524,7 @@ selecotr: selector
 selecton: selection
 selecton: selector
 semanticaly: semantically
+semaphor: semaphore
 sematic: semantic
 sematically: semantically
 sematics: semantics
@@ -3567,6 +3587,7 @@ shieds: sheds
 shieds: shields
 shiping: shipping
 shooping: shopping
+shorcut: shortcut
 shortcircuit: short-circuit
 shoudl: should
 shoudn't: shouldn't
@@ -3762,6 +3783,7 @@ sumary: summary
 sumation: summation
 summ: sum
 summaeries: summaries
+summmary: summary
 sunglases: sunglasses
 supeclass: superclass
 supercede: supersede
@@ -3846,6 +3868,7 @@ teared: tore
 teared: torn
 techincal: technical
 teh: the
+telemtry: telemetry
 temlates: templates
 tempate: template
 temporar: temporal
@@ -3853,6 +3876,8 @@ temporar: temporary
 temporarly: temporarily
 temporarly: temporary
 temprorary: temporary
+tennant: tenant
+tennants: tenants
 teriminal: terminal
 ternarary: ternary
 terrestial: terrestrial
@@ -3950,6 +3975,8 @@ Ukranian: Ukrainian
 unaccessible: inaccessible
 unacompanied: unaccompanied
 unamanaged: unmanaged
+unambiguos: unambiguous
+unambiguosly: unambiguously
 unappropriate: inappropriate
 unccompressed: uncompressed
 uncertainity: uncertainty
@@ -4068,6 +4095,7 @@ validatior: validation
 validatior: validator
 validtion: validation
 valueable: valuable
+variablity: variability
 vartically: vertically
 vebosity: verbosity
 veiwed: viewed

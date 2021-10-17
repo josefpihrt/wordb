@@ -1,6 +1,7 @@
 ﻿aad
 abnf
 acpi
+adfs
 ado
 adpcm
 adsl

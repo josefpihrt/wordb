@@ -584,6 +584,7 @@ Tencent
 Teradata
 Tesla
 Texaco
+Thanos
 Thatcher
 Theano Didot
 Thompson

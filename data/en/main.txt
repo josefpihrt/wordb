@@ -1425,6 +1425,7 @@ alumna
 alumnae
 alumni
 alumnus
+alveolar
 alveoli
 alveolus
 always
@@ -4477,6 +4478,7 @@ bimillennial
 bimillennium
 bimillenniums
 bimodal
+bimodality
 bimonthly
 bin
 binaries
@@ -13842,6 +13844,7 @@ disjointness
 disjunct
 disjunction
 disjunctions
+disjunctive
 disjuncts
 disk
 diskette
