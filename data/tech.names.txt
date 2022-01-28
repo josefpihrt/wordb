@@ -89,6 +89,7 @@ GnuTLS
 GoFish
 Golang
 Grafana
+Grafonnet
 GroupWise
 gRPC
 Hadoop
@@ -118,6 +119,7 @@ Jira
 jQuery
 JSFiddle
 JSON
+Jsonnet
 JUnit
 JupyterLab
 Jupytext

@@ -680,6 +680,7 @@ munges
 munging
 mutables
 mutator
+mutators
 mutex
 mutexes
 muxer

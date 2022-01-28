@@ -1,6 +1,7 @@
 ﻿aad
 abnf
 acpi
+acr
 adfs
 ado
 adpcm
@@ -9,6 +10,7 @@ aes
 agpl
 aix
 ajax
+aks
 amqp
 amqps
 aop

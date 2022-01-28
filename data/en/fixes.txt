@@ -2159,6 +2159,7 @@ ihnerit: inherit
 ilegal: illegal
 imags: image
 imags: images
+imcomplete: incomplete
 imediate: immediate
 imediately: immediately
 imges: images
@@ -2398,6 +2399,7 @@ interchangable: interchangeable
 interesction: intersection
 interferred: interfered
 interferring: interfering
+interger=integer
 intergrate: integrate
 intergrated: integrated
 intergration: integration

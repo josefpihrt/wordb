@@ -190,6 +190,7 @@ inlinees
 instrumentable
 instrumentations
 instrumenting
+intercommunication
 intermixed
 internationalizable
 interoperation
@@ -216,6 +217,7 @@ misconfigured
 misconfigures
 mispredict
 misprediction
+mispredictions
 mispredicts
 mitigations
 multicase
@@ -414,6 +416,7 @@ safepoint
 safepoints
 sandboxed
 scalarized
+scannable
 schedulable
 scopeless
 scripter
@@ -441,6 +444,7 @@ stacktraces
 stackwalk
 stackwalker
 stackwalking
+stoppable
 streamable
 streamless
 strippable
