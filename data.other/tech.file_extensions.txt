@@ -78,6 +78,7 @@ pubxml
 rar
 resx
 rgs
+rst
 sdf
 sfproj
 shfbproj
@@ -92,6 +93,7 @@ svg
 swf
 tgz
 tsv
+tsx
 ttf
 ttinclude
 txt

@@ -201,6 +201,7 @@ mbcs
 mbps
 mdn
 mef
+mfa
 mfc
 mgcp
 midi
@@ -344,6 +345,7 @@ ssis
 ssl
 sso
 sspi
+ssrf
 ssrs
 sstp
 svg

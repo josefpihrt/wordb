@@ -34,6 +34,7 @@ autotrace
 awesomeness
 backflow
 backoff
+backoffs
 backpatch
 backpatching
 backpointer
@@ -519,6 +520,7 @@ unadvise
 unadvises
 unadvising
 unannotated
+unapply
 unassignable
 unassigns
 unblittable
@@ -575,6 +577,7 @@ uninstantiating
 uninstrumentable
 uninstrumented
 uninterpretable
+unintuitively
 unjoin
 unjoining
 unlist

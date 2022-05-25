@@ -260,6 +260,7 @@ alread: already
 alterative: alternative
 alternativ: alternative
 alternativaly: alternatively
+alternativelly: alternatively
 althought: although
 altought: although
 amatuer: amateur
@@ -2380,6 +2381,7 @@ instructiona: instruction
 instructiona: instructions
 insufficent: insufficient
 insuffient: insufficient
+insuficient: insufficient
 inteface: interface
 intefaces: interfaces
 integation: integration
@@ -3396,6 +3398,7 @@ repsonse: response
 reqest: request
 reqested: requested
 reqeust: request
+reqistration: registration
 reqiured: required
 requesed: requested
 requeste: requested
