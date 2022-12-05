@@ -92,6 +92,9 @@ autosave
 autosaved
 autosaves
 autosaving
+autoscale
+autoscaler
+autoscalers
 autoscaling
 autoselect
 autosizing
@@ -651,6 +654,8 @@ mixin
 mixins
 monad
 monads
+monorepo
+monorepos
 multibranch
 multibranches
 multibyte
@@ -788,6 +793,8 @@ precalculation
 precompilation
 precompile
 precompiled
+precompiler
+precompilers
 precompiles
 precompiling
 precomputation

@@ -1056,6 +1056,7 @@ configued: configured
 configurabilty: configurability
 configuraed: configured
 configuraiton: configuration
+configurated: configured
 configuraton: configuration
 configuraton: configurator
 configureable: configurable
@@ -1165,6 +1166,7 @@ contibutors: contributors
 contigent: contingent
 contigous: contiguous
 contigously: contiguously
+continious: continuous
 continous: continuous
 continously: continuously
 continuious: continuous
@@ -1290,6 +1292,7 @@ curreny: currency
 curreny: current
 currnet: current
 custm: custom
+customazible: customizable
 custon: custom
 Cyrilic: Cyrillic
 dacquiri: daiquiri
@@ -1841,6 +1844,7 @@ expeting: expecting
 expiratoin: expiration
 expireds: expired
 expireds: expires
+expirred: expired
 explaination: explanation
 explcit: explicit
 explcitly: explicitly
@@ -2099,6 +2103,7 @@ hidding: hiding
 hiearchical: hierarchical
 hiearchies: hierarchies
 hiearchy: hierarchy
+hiecharchy: hierarchy
 hierachical: hierarchical
 hierachies: hierarchies
 hierachy: hierarchy
@@ -2132,6 +2137,7 @@ horizontially: horizontally
 hovewer: however
 howevever: however
 hte: the
+htpp: http
 hunderds: hundreds
 hygeine: hygiene
 hypelink: hyperlink
@@ -2308,6 +2314,7 @@ infomration: information
 informaiton: information
 infrastracture: infrastructure
 infromation: information
+ingore: ignore
 ingored: ignored
 ingoring: ignoring
 ingrediens: ingredient
@@ -2401,7 +2408,9 @@ interchangable: interchangeable
 interesction: intersection
 interferred: interfered
 interferring: interfering
+interger: integer
 interger=integer
+intergers: integers
 intergrate: integrate
 intergrated: integrated
 intergration: integration
@@ -2583,10 +2592,12 @@ messae: message
 messasges: messages
 messgaes: messages
 messsage: message
+messsages: messages
 metalic: metallic
 metalurgic: metallurgic
 metalurgical: metallurgical
 metalurgy: metallurgy
+metatada: metadata
 metched: matched
 metdata: metadata
 meterologist: meteorologist
@@ -3015,6 +3026,7 @@ polinator: pollinator
 polinators: pollinators
 pollyfill: polyfill
 pollyfills: polyfills
+polute: pollute
 polymoirphic: polymorphic
 polymorphysm: polymorphism
 polymorphysms: polymorphisms
@@ -3138,6 +3150,7 @@ priviledged: privileged
 priviledges: privileges
 privilige: privilege
 priviliges: privileges
+proactivly: proactively
 probabilisic: probabilistic
 probabilisitic: probabilistic
 probabilty: probability
@@ -3250,6 +3263,7 @@ realocates: reallocates
 realocating: reallocating
 realy: really
 reasearch: research
+reasigned: reassigned
 reasonbly: reasonably
 reasonnable: reasonable
 reasult: result
@@ -3262,6 +3276,8 @@ receieve: receive
 receieved: received
 receipient: recipient
 receipients: recipients
+recepient: recipient
+recepients: recipients
 recepies: recipes
 recepit: receipt
 reciept: receipt
@@ -3439,6 +3455,7 @@ responsibilites: responsibilities
 responsiblities: responsibilities
 responsiblity: responsibility
 respository: repository
+resposne: response
 respresentable: representable
 respresents: represents
 restaraunt: restaurant
@@ -3611,6 +3628,7 @@ signicantly: significantly
 signifant: significant
 signifcance: significance
 significently: significantly
+signign: signing
 signiture: signature
 signle: single
 signture: signature
@@ -3722,6 +3740,7 @@ subscribition: subscription
 subscripe: subscribe
 subscripe: subscript
 subseqent: subsequent
+subseqently: subsequently
 subsitute: substitute
 subsitution: substitution
 substition: substitution
@@ -4102,6 +4121,7 @@ validtion: validation
 valueable: valuable
 variablity: variability
 vartically: vertically
+vastely: vastly
 vebosity: verbosity
 veiwed: viewed
 vengance: vengeance
@@ -4109,6 +4129,8 @@ vengence: vengeance
 verfication: verification
 verfied: verified
 verfier: verifier
+verificiation: verification
+verificiations: verifications
 verifing: verifying
 verifiy: verify
 verifyable: verifiable

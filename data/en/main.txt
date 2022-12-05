@@ -47372,6 +47372,7 @@ terrors
 terry
 terse
 tersely
+terseness
 terser
 tersest
 tertiary

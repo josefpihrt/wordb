@@ -295,6 +295,7 @@ IdenTrust
 Inconsolata
 Infineon
 InfoCert
+Informatica
 Instagram
 InstaPayment
 Integromat
@@ -568,6 +569,7 @@ Starbucks
 Starcraft
 Steinbeck
 Stephens
+Stevens
 Stewart
 Stradivari
 Strava

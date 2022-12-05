@@ -92,6 +92,7 @@ suo
 svg
 swf
 tgz
+toml
 tsv
 tsx
 ttf

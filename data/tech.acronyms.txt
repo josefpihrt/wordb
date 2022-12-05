@@ -398,6 +398,7 @@ vps
 vrml
 vs
 vssdk
+vstfs
 vsto
 vsts
 wan

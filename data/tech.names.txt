@@ -78,6 +78,7 @@ FSharp
 Giphy
 Git
 Gitea
+Gitflow
 GitHub
 GitLab
 GitLink
@@ -144,6 +145,7 @@ Magento
 MariaDB
 Markdig
 MATLAB
+MinGW
 Mintty
 Modernizr
 Mojolicious
@@ -248,6 +250,7 @@ SQL
 SQLAlchemy
 SQLite
 StyleCop
+Supabase
 Suse
 SVN
 Swagger
@@ -259,6 +262,7 @@ Taskify
 TeamCity
 Telerik
 TensorFlow
+Terraform
 TeX
 TortoiseMerge
 TSLint
