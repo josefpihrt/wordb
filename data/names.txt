@@ -236,6 +236,7 @@ Godzilla
 Goebbels
 Goethe
 Goldberg
+Goldstein
 Goodreads
 Google
 Googlebot
@@ -533,6 +534,7 @@ Samsonite
 Samsung
 Santana
 Sartre
+Sberbank
 Schopenhauer
 Schrodinger
 Schrödinger

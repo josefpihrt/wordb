@@ -23,6 +23,8 @@ animatables
 antialiased
 antialiasing
 antiforgery
+antipattern
+antipatterns
 appendable
 appender
 appenders
@@ -467,6 +469,7 @@ globstar
 grep
 grepping
 gzipped
+hackable
 hackfest
 hackfests
 hacky
@@ -646,6 +649,7 @@ middlewares
 migratable
 minifier
 minifiers
+minimizer
 mipmap
 mipmapped
 mipmapping
@@ -764,6 +768,8 @@ pluggability
 poco
 pocos
 polyfill
+polyfilled
+polyfilling
 polyfills
 poolable
 popup
@@ -828,6 +834,8 @@ prepopulate
 prepopulated
 prerender
 prerendered
+prerendering
+prerenders
 preshared
 prop
 props

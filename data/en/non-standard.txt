@@ -216,6 +216,7 @@ misassigned
 misauthenticated
 misconfigured
 misconfigures
+misconfiguring
 mispredict
 misprediction
 mispredictions
