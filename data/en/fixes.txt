@@ -2409,7 +2409,6 @@ interesction: intersection
 interferred: interfered
 interferring: interfering
 interger: integer
-interger=integer
 intergers: integers
 intergrate: integrate
 intergrated: integrated
@@ -4173,6 +4172,7 @@ wheter: whether
 whethor: whether
 whteher: whether
 whther: whether
+widht: width
 wierd: weird
 wihout: without
 wiht: with
