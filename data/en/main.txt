@@ -11242,6 +11242,8 @@ crypt
 cryptic
 cryptically
 crypto
+cryptocurrencies
+cryptocurrency
 cryptogram
 cryptograms
 cryptographer
@@ -41884,6 +41886,8 @@ selects
 selenium
 self
 selfclosing
+selfie
+selfies
 selfish
 selfishly
 selfishness

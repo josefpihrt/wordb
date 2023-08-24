@@ -2727,6 +2727,10 @@ neeeded: needed
 negetive: negative
 negitive: negative
 negligable: negligible
+negociate: negotiate
+negociated: negotiated
+negociates: negotiates
+negociating: negotiating
 negotation: negotiation
 nessesary: necessary
 nonascii: non-ascii
@@ -4068,6 +4072,7 @@ unqouted: unquoted
 unreferened: unreferenced
 unreproducible: irreproducible
 unresolable: unresolvable
+unsollicited: unsolicited
 unspecfied: unspecified
 unspecifed: unspecified
 unsuccesful: unsuccessful
@@ -4204,3 +4209,4 @@ wtehher: whether
 wtih: with
 youve: you've
 zerobased: zero-based
+ziped: zipped

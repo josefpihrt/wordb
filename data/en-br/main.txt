@@ -391,6 +391,8 @@ digitises
 digitising
 disorganisation
 disorganised
+divulgation
+divulgations
 dramatisation
 dramatisations
 dramatise

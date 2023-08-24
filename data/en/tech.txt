@@ -155,12 +155,15 @@ bitrates
 bitset
 bitsets
 bitshift
+bitshifting
 bitshifts
 bitstream
 bitstreams
 bitwise
 blittable
 blittables
+blockquote
+blockquotes
 blogpost
 blogposts
 bool
@@ -220,6 +223,8 @@ charset
 charsets
 chartsheet
 chartsheets
+chatlist
+chatlists
 chatroom
 chatrooms
 checkpointable
@@ -1250,6 +1255,8 @@ viewmodel
 viewmodels
 voxel
 voxels
+webapp
+webapps
 webhook
 webhooks
 webmention
