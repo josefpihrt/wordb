@@ -3945,6 +3945,8 @@ trafic: traffic
 tranformation: transformation
 tranisent: transient
 tranparent: transparent
+tranport: transport
+tranportation: transportation
 tranpositions: transpositions
 transaciton: transaction
 transation: transaction
